@@ -1,0 +1,59 @@
+2021-09-03 09:51:44,583 - elsapy.elsentity - INFO - Module loaded.
+2021-09-03 09:51:44,585 - elsapy.elsdoc - INFO - Module loaded.
+2021-09-03 09:51:45,432 - elsapy.utils - INFO - Module loaded.
+2021-09-03 09:51:45,433 - elsapy.elssearch - INFO - Module loaded.
+2021-09-03 09:51:45,436 - elsapy.elsclient - INFO - Module loaded.
+2021-09-03 09:51:46,447 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Title%28%29
+2021-09-03 09:52:20,054 - elsapy.elsentity - INFO - Module loaded.
+2021-09-03 09:52:20,055 - elsapy.elsdoc - INFO - Module loaded.
+2021-09-03 09:52:20,953 - elsapy.utils - INFO - Module loaded.
+2021-09-03 09:52:20,954 - elsapy.elssearch - INFO - Module loaded.
+2021-09-03 09:52:20,958 - elsapy.elsclient - INFO - Module loaded.
+2021-09-03 09:52:21,960 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Title%28Bitcoin+influence+on+E-commerce%29
+2021-09-03 09:52:22,852 - elsapy.utils - INFO - Converting prism:coverDate
+2021-09-03 09:52:23,842 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85075897252
+2021-09-03 09:52:25,256 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/85075897252
+2021-09-03 09:53:26,148 - elsapy.elsentity - INFO - Module loaded.
+2021-09-03 09:53:26,150 - elsapy.elsdoc - INFO - Module loaded.
+2021-09-03 09:53:27,016 - elsapy.utils - INFO - Module loaded.
+2021-09-03 09:53:27,017 - elsapy.elssearch - INFO - Module loaded.
+2021-09-03 09:53:27,020 - elsapy.elsclient - INFO - Module loaded.
+2021-09-03 09:53:28,027 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Title%28Bitcoin+influence+on+E-commerce%29
+2021-09-03 09:53:29,516 - elsapy.utils - INFO - Converting prism:coverDate
+2021-09-03 09:53:30,509 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85075897252
+2021-09-03 09:54:07,130 - elsapy.elsentity - INFO - Module loaded.
+2021-09-03 09:54:07,131 - elsapy.elsdoc - INFO - Module loaded.
+2021-09-03 09:54:08,006 - elsapy.utils - INFO - Module loaded.
+2021-09-03 09:54:08,006 - elsapy.elssearch - INFO - Module loaded.
+2021-09-03 09:54:08,009 - elsapy.elsclient - INFO - Module loaded.
+2021-09-03 09:54:09,012 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Title%28Bitcoin+influence+on+E-commerce%29
+2021-09-03 09:54:09,870 - elsapy.utils - INFO - Converting prism:coverDate
+2021-09-03 09:54:10,869 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85075897252
+2021-09-03 09:55:10,285 - elsapy.elsentity - INFO - Module loaded.
+2021-09-03 09:55:10,286 - elsapy.elsdoc - INFO - Module loaded.
+2021-09-03 09:55:11,252 - elsapy.utils - INFO - Module loaded.
+2021-09-03 09:55:11,253 - elsapy.elssearch - INFO - Module loaded.
+2021-09-03 09:55:11,257 - elsapy.elsclient - INFO - Module loaded.
+2021-09-03 09:55:12,266 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Title%28Bitcoin+influence+on+E-commerce%29
+2021-09-03 09:55:13,995 - elsapy.utils - INFO - Converting prism:coverDate
+2021-09-03 09:55:14,953 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85075897252
+2021-09-03 09:55:16,800 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/85075897252
+2021-09-03 09:57:24,576 - elsapy.elsentity - INFO - Module loaded.
+2021-09-03 09:57:24,579 - elsapy.elsdoc - INFO - Module loaded.
+2021-09-03 09:57:26,042 - elsapy.utils - INFO - Module loaded.
+2021-09-03 09:57:26,043 - elsapy.elssearch - INFO - Module loaded.
+2021-09-03 09:57:26,046 - elsapy.elsclient - INFO - Module loaded.
+2021-09-03 09:57:27,058 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Title%28Bitcoin+influence+on+E-commerce%29
+2021-09-03 09:57:28,938 - elsapy.utils - INFO - Converting prism:coverDate
+2021-09-03 09:57:29,937 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85075897252
+2021-09-03 09:57:30,580 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/85075897252
+2021-09-03 10:07:15,850 - elsapy.elsentity - INFO - Module loaded.
+2021-09-03 10:07:15,851 - elsapy.elsdoc - INFO - Module loaded.
+2021-09-03 10:07:16,718 - elsapy.utils - INFO - Module loaded.
+2021-09-03 10:07:16,718 - elsapy.elssearch - INFO - Module loaded.
+2021-09-03 10:07:16,721 - elsapy.elsclient - INFO - Module loaded.
+2021-09-03 10:08:09,551 - elsapy.elsentity - INFO - Module loaded.
+2021-09-03 10:08:09,552 - elsapy.elsdoc - INFO - Module loaded.
+2021-09-03 10:08:10,425 - elsapy.utils - INFO - Module loaded.
+2021-09-03 10:08:10,425 - elsapy.elssearch - INFO - Module loaded.
+2021-09-03 10:08:10,428 - elsapy.elsclient - INFO - Module loaded.
