@@ -1,59 +1,173 @@
-2021-09-03 09:51:44,583 - elsapy.elsentity - INFO - Module loaded.
-2021-09-03 09:51:44,585 - elsapy.elsdoc - INFO - Module loaded.
-2021-09-03 09:51:45,432 - elsapy.utils - INFO - Module loaded.
-2021-09-03 09:51:45,433 - elsapy.elssearch - INFO - Module loaded.
-2021-09-03 09:51:45,436 - elsapy.elsclient - INFO - Module loaded.
-2021-09-03 09:51:46,447 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Title%28%29
-2021-09-03 09:52:20,054 - elsapy.elsentity - INFO - Module loaded.
-2021-09-03 09:52:20,055 - elsapy.elsdoc - INFO - Module loaded.
-2021-09-03 09:52:20,953 - elsapy.utils - INFO - Module loaded.
-2021-09-03 09:52:20,954 - elsapy.elssearch - INFO - Module loaded.
-2021-09-03 09:52:20,958 - elsapy.elsclient - INFO - Module loaded.
-2021-09-03 09:52:21,960 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Title%28Bitcoin+influence+on+E-commerce%29
-2021-09-03 09:52:22,852 - elsapy.utils - INFO - Converting prism:coverDate
-2021-09-03 09:52:23,842 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85075897252
-2021-09-03 09:52:25,256 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/85075897252
-2021-09-03 09:53:26,148 - elsapy.elsentity - INFO - Module loaded.
-2021-09-03 09:53:26,150 - elsapy.elsdoc - INFO - Module loaded.
-2021-09-03 09:53:27,016 - elsapy.utils - INFO - Module loaded.
-2021-09-03 09:53:27,017 - elsapy.elssearch - INFO - Module loaded.
-2021-09-03 09:53:27,020 - elsapy.elsclient - INFO - Module loaded.
-2021-09-03 09:53:28,027 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Title%28Bitcoin+influence+on+E-commerce%29
-2021-09-03 09:53:29,516 - elsapy.utils - INFO - Converting prism:coverDate
-2021-09-03 09:53:30,509 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85075897252
-2021-09-03 09:54:07,130 - elsapy.elsentity - INFO - Module loaded.
-2021-09-03 09:54:07,131 - elsapy.elsdoc - INFO - Module loaded.
-2021-09-03 09:54:08,006 - elsapy.utils - INFO - Module loaded.
-2021-09-03 09:54:08,006 - elsapy.elssearch - INFO - Module loaded.
-2021-09-03 09:54:08,009 - elsapy.elsclient - INFO - Module loaded.
-2021-09-03 09:54:09,012 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Title%28Bitcoin+influence+on+E-commerce%29
-2021-09-03 09:54:09,870 - elsapy.utils - INFO - Converting prism:coverDate
-2021-09-03 09:54:10,869 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85075897252
-2021-09-03 09:55:10,285 - elsapy.elsentity - INFO - Module loaded.
-2021-09-03 09:55:10,286 - elsapy.elsdoc - INFO - Module loaded.
-2021-09-03 09:55:11,252 - elsapy.utils - INFO - Module loaded.
-2021-09-03 09:55:11,253 - elsapy.elssearch - INFO - Module loaded.
-2021-09-03 09:55:11,257 - elsapy.elsclient - INFO - Module loaded.
-2021-09-03 09:55:12,266 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Title%28Bitcoin+influence+on+E-commerce%29
-2021-09-03 09:55:13,995 - elsapy.utils - INFO - Converting prism:coverDate
-2021-09-03 09:55:14,953 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85075897252
-2021-09-03 09:55:16,800 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/85075897252
-2021-09-03 09:57:24,576 - elsapy.elsentity - INFO - Module loaded.
-2021-09-03 09:57:24,579 - elsapy.elsdoc - INFO - Module loaded.
-2021-09-03 09:57:26,042 - elsapy.utils - INFO - Module loaded.
-2021-09-03 09:57:26,043 - elsapy.elssearch - INFO - Module loaded.
-2021-09-03 09:57:26,046 - elsapy.elsclient - INFO - Module loaded.
-2021-09-03 09:57:27,058 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Title%28Bitcoin+influence+on+E-commerce%29
-2021-09-03 09:57:28,938 - elsapy.utils - INFO - Converting prism:coverDate
-2021-09-03 09:57:29,937 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/abstract/scopus_id/85075897252
-2021-09-03 09:57:30,580 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/abstract/scopus_id/85075897252
-2021-09-03 10:07:15,850 - elsapy.elsentity - INFO - Module loaded.
-2021-09-03 10:07:15,851 - elsapy.elsdoc - INFO - Module loaded.
-2021-09-03 10:07:16,718 - elsapy.utils - INFO - Module loaded.
-2021-09-03 10:07:16,718 - elsapy.elssearch - INFO - Module loaded.
-2021-09-03 10:07:16,721 - elsapy.elsclient - INFO - Module loaded.
-2021-09-03 10:08:09,551 - elsapy.elsentity - INFO - Module loaded.
-2021-09-03 10:08:09,552 - elsapy.elsdoc - INFO - Module loaded.
-2021-09-03 10:08:10,425 - elsapy.utils - INFO - Module loaded.
-2021-09-03 10:08:10,425 - elsapy.elssearch - INFO - Module loaded.
-2021-09-03 10:08:10,428 - elsapy.elsclient - INFO - Module loaded.
+2021-09-03 11:28:38,021 - elsapy.elsclient - INFO - Module loaded.
+2021-09-03 11:28:38,027 - elsapy.elsentity - INFO - Module loaded.
+2021-09-03 11:28:38,028 - elsapy.elsdoc - INFO - Module loaded.
+2021-09-03 11:28:38,918 - elsapy.utils - INFO - Module loaded.
+2021-09-03 11:28:38,919 - elsapy.elssearch - INFO - Module loaded.
+2021-09-03 11:28:39,339 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Title%28Virtual+Reality+Education%29
+2021-09-03 11:30:15,323 - elsapy.elsclient - INFO - Module loaded.
+2021-09-03 11:30:15,332 - elsapy.elsentity - INFO - Module loaded.
+2021-09-03 11:30:15,333 - elsapy.elsdoc - INFO - Module loaded.
+2021-09-03 11:30:17,151 - elsapy.utils - INFO - Module loaded.
+2021-09-03 11:30:17,152 - elsapy.elssearch - INFO - Module loaded.
+2021-09-03 11:30:17,516 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Title%28Virtual+Reality+Education%29
+2021-09-03 11:30:22,184 - elsapy.utils - INFO - Converting prism:coverDate
+2021-09-03 11:40:07,639 - elsapy.elsclient - INFO - Module loaded.
+2021-09-03 11:40:07,647 - elsapy.elsentity - INFO - Module loaded.
+2021-09-03 11:40:07,648 - elsapy.elsdoc - INFO - Module loaded.
+2021-09-03 11:40:08,746 - elsapy.utils - INFO - Module loaded.
+2021-09-03 11:40:08,746 - elsapy.elssearch - INFO - Module loaded.
+2021-09-03 11:41:16,848 - elsapy.elsclient - INFO - Module loaded.
+2021-09-03 11:41:16,853 - elsapy.elsentity - INFO - Module loaded.
+2021-09-03 11:41:16,854 - elsapy.elsdoc - INFO - Module loaded.
+2021-09-03 11:41:17,782 - elsapy.utils - INFO - Module loaded.
+2021-09-03 11:41:17,782 - elsapy.elssearch - INFO - Module loaded.
+2021-09-03 11:42:21,004 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Title%28Blind+scanner+Server+and+Batch+Programming+Implementation+in+the+Process+of+Automatically+Scan+Documents%29
+2021-09-03 11:42:22,280 - elsapy.utils - INFO - Converting prism:coverDate
+2021-09-03 11:43:23,164 - elsapy.elsclient - INFO - Module loaded.
+2021-09-03 11:43:23,169 - elsapy.elsentity - INFO - Module loaded.
+2021-09-03 11:43:23,170 - elsapy.elsdoc - INFO - Module loaded.
+2021-09-03 11:43:24,226 - elsapy.utils - INFO - Module loaded.
+2021-09-03 11:43:24,226 - elsapy.elssearch - INFO - Module loaded.
+2021-09-03 11:44:57,939 - elsapy.elsclient - INFO - Module loaded.
+2021-09-03 11:44:57,948 - elsapy.elsentity - INFO - Module loaded.
+2021-09-03 11:44:57,949 - elsapy.elsdoc - INFO - Module loaded.
+2021-09-03 11:44:58,940 - elsapy.utils - INFO - Module loaded.
+2021-09-03 11:44:58,941 - elsapy.elssearch - INFO - Module loaded.
+2021-09-03 11:45:09,837 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Title%28Blind+scanner+Server+and+Batch+Programming+Implementation+in+the+Process+of+Automatically+Scan+Documents%29
+2021-09-03 11:45:10,817 - elsapy.utils - INFO - Converting prism:coverDate
+2021-09-03 11:46:20,443 - elsapy.elsclient - INFO - Module loaded.
+2021-09-03 11:46:20,453 - elsapy.elsentity - INFO - Module loaded.
+2021-09-03 11:46:20,454 - elsapy.elsdoc - INFO - Module loaded.
+2021-09-03 11:46:23,735 - elsapy.utils - INFO - Module loaded.
+2021-09-03 11:46:23,739 - elsapy.elssearch - INFO - Module loaded.
+2021-09-03 11:46:31,521 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=Title%28Blind+scanner+Server+and+Batch+Programming+Implementation+in+the+Process+of+Automatically+Scan+Documents%29
+2021-09-03 11:46:32,706 - elsapy.utils - INFO - Converting prism:coverDate
+2021-09-03 11:48:08,204 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTHOR-NAME%28Angga+Setiyadi%29
+2021-09-03 11:48:10,178 - elsapy.utils - INFO - Converting prism:coverDate
+2021-09-03 11:49:44,125 - elsapy.elsclient - INFO - Module loaded.
+2021-09-03 11:49:44,131 - elsapy.elsentity - INFO - Module loaded.
+2021-09-03 11:49:44,132 - elsapy.elsdoc - INFO - Module loaded.
+2021-09-03 11:49:45,087 - elsapy.utils - INFO - Module loaded.
+2021-09-03 11:49:45,088 - elsapy.elssearch - INFO - Module loaded.
+2021-09-03 11:51:22,735 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTHOR-NAME%28Angga+Setiyadi%29
+2021-09-03 11:51:23,975 - elsapy.utils - INFO - Converting prism:coverDate
+2021-09-03 11:57:47,262 - elsapy.elsclient - INFO - Module loaded.
+2021-09-03 11:57:47,277 - elsapy.elsentity - INFO - Module loaded.
+2021-09-03 11:57:47,278 - elsapy.elsdoc - INFO - Module loaded.
+2021-09-03 11:57:48,308 - elsapy.utils - INFO - Module loaded.
+2021-09-03 11:57:48,309 - elsapy.elssearch - INFO - Module loaded.
+2021-09-03 11:58:39,760 - elsapy.elsclient - INFO - Module loaded.
+2021-09-03 11:58:39,766 - elsapy.elsentity - INFO - Module loaded.
+2021-09-03 11:58:39,767 - elsapy.elsdoc - INFO - Module loaded.
+2021-09-03 11:58:40,732 - elsapy.utils - INFO - Module loaded.
+2021-09-03 11:58:40,733 - elsapy.elssearch - INFO - Module loaded.
+2021-09-03 11:58:57,238 - elsapy.elsclient - INFO - Module loaded.
+2021-09-03 11:58:57,242 - elsapy.elsentity - INFO - Module loaded.
+2021-09-03 11:58:57,243 - elsapy.elsdoc - INFO - Module loaded.
+2021-09-03 11:58:58,399 - elsapy.utils - INFO - Module loaded.
+2021-09-03 11:58:58,400 - elsapy.elssearch - INFO - Module loaded.
+2021-09-03 12:03:07,797 - elsapy.elsclient - INFO - Module loaded.
+2021-09-03 12:03:07,803 - elsapy.elsentity - INFO - Module loaded.
+2021-09-03 12:03:07,803 - elsapy.elsdoc - INFO - Module loaded.
+2021-09-03 12:03:08,718 - elsapy.utils - INFO - Module loaded.
+2021-09-03 12:03:08,719 - elsapy.elssearch - INFO - Module loaded.
+2021-09-03 12:03:20,383 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTHOR-NAME%28Angga+Setiyadi%29
+2021-09-03 12:03:21,488 - elsapy.utils - INFO - Converting prism:coverDate
+2021-09-03 12:03:33,994 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTHOR-NAME%28Adam+Mukharil%29
+2021-09-03 12:03:35,051 - elsapy.utils - INFO - Converting prism:coverDate
+2021-09-03 12:04:03,460 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=affilname%28Universitas+Komputer+Indonesia%29
+2021-09-03 12:05:07,293 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=affilname%28Universitas+Komputer+Indonesia%29
+2021-09-03 12:05:53,121 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTHOR-NAME%28Angga+Setiyadi%29
+2021-09-03 12:05:53,890 - elsapy.utils - INFO - Converting prism:coverDate
+2021-09-03 12:06:41,512 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=affilname%28Universitas+Komputer+Indonesia%29
+2021-09-03 12:07:46,999 - elsapy.elsclient - INFO - Module loaded.
+2021-09-03 12:07:47,007 - elsapy.elsentity - INFO - Module loaded.
+2021-09-03 12:07:47,008 - elsapy.elsdoc - INFO - Module loaded.
+2021-09-03 12:07:48,209 - elsapy.utils - INFO - Module loaded.
+2021-09-03 12:07:48,209 - elsapy.elssearch - INFO - Module loaded.
+2021-09-03 12:07:53,102 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=affilname%28Universitas+Komputer+Indonesia%29
+2021-09-03 12:08:09,977 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=affilname%28Universitas+Komputer+Indonesia%29
+2021-09-03 12:10:46,896 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=affilname%28Universitas+Komputer+Indonesia%29
+2021-09-03 12:11:37,076 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=affilname%28Universitas+Komputer+Indonesia%29
+2021-09-03 12:13:08,385 - elsapy.elsclient - INFO - Module loaded.
+2021-09-03 12:13:08,394 - elsapy.elsentity - INFO - Module loaded.
+2021-09-03 12:13:08,395 - elsapy.elsdoc - INFO - Module loaded.
+2021-09-03 12:13:09,342 - elsapy.utils - INFO - Module loaded.
+2021-09-03 12:13:09,343 - elsapy.elssearch - INFO - Module loaded.
+2021-09-03 12:13:42,476 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=affilname%28Universitas+Komputer+Indonesia%29
+2021-09-03 12:17:30,978 - elsapy.elsclient - INFO - Module loaded.
+2021-09-03 12:17:30,988 - elsapy.elsentity - INFO - Module loaded.
+2021-09-03 12:17:30,989 - elsapy.elsdoc - INFO - Module loaded.
+2021-09-03 12:17:32,403 - elsapy.utils - INFO - Module loaded.
+2021-09-03 12:17:32,404 - elsapy.elssearch - INFO - Module loaded.
+2021-09-03 12:18:46,652 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=affilname%28Universitas+Komputer+Indonesia%29
+2021-09-03 12:23:00,563 - elsapy.elsclient - INFO - Module loaded.
+2021-09-03 12:23:00,573 - elsapy.elsentity - INFO - Module loaded.
+2021-09-03 12:23:00,574 - elsapy.elsdoc - INFO - Module loaded.
+2021-09-03 12:23:01,494 - elsapy.utils - INFO - Module loaded.
+2021-09-03 12:23:01,494 - elsapy.elssearch - INFO - Module loaded.
+2021-09-03 12:23:01,892 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AFFIL%28Universitas+Komputer+Indonesia%29
+2021-09-03 12:23:05,179 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=AFFIL%28Universitas+Komputer+Indonesia%29
+2021-09-03 12:23:07,944 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=50&count=25&query=AFFIL%28Universitas+Komputer+Indonesia%29
+2021-09-03 12:23:10,295 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=75&count=25&query=AFFIL%28Universitas+Komputer+Indonesia%29
+2021-09-03 12:23:12,617 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=100&count=25&query=AFFIL%28Universitas+Komputer+Indonesia%29
+2021-09-03 12:23:15,671 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=125&count=25&query=AFFIL%28Universitas+Komputer+Indonesia%29
+2021-09-03 12:23:18,454 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=150&count=25&query=AFFIL%28Universitas+Komputer+Indonesia%29
+2021-09-03 12:23:21,121 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=175&count=25&query=AFFIL%28Universitas+Komputer+Indonesia%29
+2021-09-03 12:23:23,046 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=200&count=25&query=AFFIL%28Universitas+Komputer+Indonesia%29
+2021-09-03 12:23:25,459 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=225&count=25&query=AFFIL%28Universitas+Komputer+Indonesia%29
+2021-09-03 12:23:27,436 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=250&count=25&query=AFFIL%28Universitas+Komputer+Indonesia%29
+2021-09-03 12:23:30,149 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=275&count=25&query=AFFIL%28Universitas+Komputer+Indonesia%29
+2021-09-03 12:23:43,645 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=300&count=25&query=AFFIL%28Universitas+Komputer+Indonesia%29
+2021-09-03 12:23:56,836 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=325&count=25&query=AFFIL%28Universitas+Komputer+Indonesia%29
+2021-09-03 12:23:59,812 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=350&count=25&query=AFFIL%28Universitas+Komputer+Indonesia%29
+2021-09-03 12:24:02,865 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=375&count=25&query=AFFIL%28Universitas+Komputer+Indonesia%29
+2021-09-03 12:24:05,868 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=400&count=25&query=AFFIL%28Universitas+Komputer+Indonesia%29
+2021-09-03 12:24:08,078 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=425&count=25&query=AFFIL%28Universitas+Komputer+Indonesia%29
+2021-09-03 12:24:10,100 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=450&count=25&query=AFFIL%28Universitas+Komputer+Indonesia%29
+2021-09-03 12:24:12,057 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=475&count=25&query=AFFIL%28Universitas+Komputer+Indonesia%29
+2021-09-03 12:24:14,360 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=500&count=25&query=AFFIL%28Universitas+Komputer+Indonesia%29
+2021-09-03 12:24:17,265 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=525&count=25&query=AFFIL%28Universitas+Komputer+Indonesia%29
+2021-09-03 12:24:19,946 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=550&count=25&query=AFFIL%28Universitas+Komputer+Indonesia%29
+2021-09-03 12:24:22,255 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=575&count=25&query=AFFIL%28Universitas+Komputer+Indonesia%29
+2021-09-03 12:24:24,270 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=600&count=25&query=AFFIL%28Universitas+Komputer+Indonesia%29
+2021-09-03 12:24:26,286 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=625&count=25&query=AFFIL%28Universitas+Komputer+Indonesia%29
+2021-09-03 12:24:29,300 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=650&count=25&query=AFFIL%28Universitas+Komputer+Indonesia%29
+2021-09-03 12:24:56,025 - elsapy.elsclient - INFO - Module loaded.
+2021-09-03 12:24:56,034 - elsapy.elsentity - INFO - Module loaded.
+2021-09-03 12:24:56,035 - elsapy.elsdoc - INFO - Module loaded.
+2021-09-03 12:24:57,599 - elsapy.utils - INFO - Module loaded.
+2021-09-03 12:24:57,600 - elsapy.elssearch - INFO - Module loaded.
+2021-09-03 12:24:58,064 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AFFIL%28Universitas+Komputer+Indonesia%29
+2021-09-03 12:24:59,106 - elsapy.utils - INFO - Converting prism:coverDate
+2021-09-03 12:26:19,634 - elsapy.elsentity - INFO - Module loaded.
+2021-09-03 12:26:19,635 - elsapy.elsdoc - INFO - Module loaded.
+2021-09-03 12:26:20,511 - elsapy.utils - INFO - Module loaded.
+2021-09-03 12:26:20,511 - elsapy.elssearch - INFO - Module loaded.
+2021-09-03 12:26:39,224 - elsapy.elsclient - INFO - Module loaded.
+2021-09-03 12:26:39,237 - elsapy.elsentity - INFO - Module loaded.
+2021-09-03 12:26:39,238 - elsapy.elsdoc - INFO - Module loaded.
+2021-09-03 12:26:40,848 - elsapy.utils - INFO - Module loaded.
+2021-09-03 12:26:40,848 - elsapy.elssearch - INFO - Module loaded.
+2021-09-03 12:26:41,271 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=affilname%28Universitas+Komputer+Indonesia%29
+2021-09-03 12:30:44,447 - elsapy.elsclient - INFO - Module loaded.
+2021-09-03 12:30:44,459 - elsapy.elsentity - INFO - Module loaded.
+2021-09-03 12:30:44,460 - elsapy.elsdoc - INFO - Module loaded.
+2021-09-03 12:30:45,986 - elsapy.utils - INFO - Module loaded.
+2021-09-03 12:30:45,987 - elsapy.elssearch - INFO - Module loaded.
+2021-09-03 12:30:46,416 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AFFILORG%28Universitas+Komputer+Indonesia%29
+2021-09-03 12:30:58,647 - elsapy.utils - INFO - Converting prism:coverDate
+2021-09-03 12:32:21,920 - elsapy.elsclient - INFO - Module loaded.
+2021-09-03 12:32:21,930 - elsapy.elsentity - INFO - Module loaded.
+2021-09-03 12:32:21,931 - elsapy.elsdoc - INFO - Module loaded.
+2021-09-03 12:32:22,820 - elsapy.utils - INFO - Module loaded.
+2021-09-03 12:32:22,821 - elsapy.elssearch - INFO - Module loaded.
+2021-09-03 12:32:32,196 - elsapy.elsclient - INFO - Module loaded.
+2021-09-03 12:32:32,202 - elsapy.elsentity - INFO - Module loaded.
+2021-09-03 12:32:32,203 - elsapy.elsdoc - INFO - Module loaded.
+2021-09-03 12:32:33,153 - elsapy.utils - INFO - Module loaded.
+2021-09-03 12:32:33,154 - elsapy.elssearch - INFO - Module loaded.
+2021-09-03 12:33:03,688 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AFFILORG%28Universitas+Komputer+Indonesia%29
+2021-09-03 12:33:06,112 - elsapy.utils - INFO - Converting prism:coverDate
+2021-09-03 12:34:08,765 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AFFILORG%28universitas+padjadjaran%29
+2021-09-03 12:34:11,116 - elsapy.utils - INFO - Converting prism:coverDate

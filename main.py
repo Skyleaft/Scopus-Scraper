@@ -1,32 +1,46 @@
-from elsapy.elsdoc import AbsDoc
-from elsapy.elssearch import ElsSearch
 from elsapy.elsclient import ElsClient
-import re
 import json
-import os
-from flask import Flask, request, render_template
+import scrapper
+from flask import Flask, request, render_template, jsonify
 
 
+app = Flask(__name__)
 
-def search_article(client, article, ID):
-    doc_srch = ElsSearch(f"Title({article})",'scopus')
-    doc_srch.execute(client, get_all = True)
-    result = doc_srch.results
-    if len(result) > 1:
-        print('Artikel tidak ditemukan')
-        for article in result:
-            print(article['dc:title'])
-        t = input('print the number of article you need info about')
-        t -=1
-        result = result[t]
-    else:
-        result = result[0]
-    scp_id = re.findall(r'[0-9]+', result['dc:identifier'])[0]
-    scp_doc = AbsDoc(scp_id = scp_id)
-    scp_doc.read(client)
-    with open('data.json', 'w') as outfile:
-        json.dump(scp_doc.data, outfile)
-    
+@app.route("/")
+def index():
+    return render_template('myIndexTemplate.html')
+
+@app.route("/artikel")
+def artikel():
+    name = request.args.get("name")
+    scrapper.search_article(client,name)
+    data_file = open("artikel.json")
+    data = json.load(data_file)
+    return jsonify(data)
+
+@app.route("/author")
+def author():
+    name = request.args.get("name")
+    scrapper.search_author(client,name)
+    data_file = open("author.json")
+    data = json.load(data_file)
+    return jsonify(data)
+
+@app.route("/afil")
+def affiliation():
+    name = request.args.get("name")
+    scrapper.search_afil(client,name)
+    data_file = open("affiliation.json")
+    data = json.load(data_file)
+    return jsonify(data)
+
+
+# API Routing to get JSON file
+@app.route("/readFile")
+def readFileRoute():
+    data_file = open("artikel.json")
+    data = json.load(data_file)
+    return jsonify(data)
 
 
 if __name__ == '__main__':
@@ -35,4 +49,7 @@ if __name__ == '__main__':
     con_file.close()
     #ambil config api
     client = ElsClient(config['apikey'])
-    #search_article(client,'Bitcoin influence on E-commerce',1)
+    #scrapper.search_author(client,'Angga Setiyadi')
+    #scrapper.search_article(client,'Virtual Reality Education')
+    #scrapper.search_afil(client,'Universitas Komputer Indonesia')
+    app.run()
