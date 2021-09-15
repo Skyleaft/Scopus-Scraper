@@ -49,7 +49,8 @@ if __name__ == '__main__':
     con_file.close()
     #ambil config api
     client = ElsClient(config['apikey'])
-    #scrapper.search_author(client,'Angga Setiyadi')
+    #scrapper.search_authorID(client,57204495477)
+    scrapper.search_author(client,'57204495477')
     #scrapper.search_article(client,'Virtual Reality Education')
     #scrapper.search_afil(client,'Universitas Komputer Indonesia')
-    app.run()
+    #app.run()
