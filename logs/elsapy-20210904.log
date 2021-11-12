@@ -1,0 +1,9 @@
+2021-09-04 08:11:23,649 - elsapy.elsclient - INFO - Module loaded.
+2021-09-04 08:11:23,658 - elsapy.elsentity - INFO - Module loaded.
+2021-09-04 08:11:23,658 - elsapy.elsdoc - INFO - Module loaded.
+2021-09-04 08:11:26,719 - elsapy.utils - INFO - Module loaded.
+2021-09-04 08:11:26,719 - elsapy.elssearch - INFO - Module loaded.
+2021-09-04 08:21:36,229 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTHOR-NAME%28Angga+Setiyadi%29
+2021-09-04 08:21:37,471 - elsapy.utils - INFO - Converting prism:coverDate
+2021-09-04 08:21:57,777 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AFFILORG%28Universitas+Komputer+Indonesia%29
+2021-09-04 08:21:59,113 - elsapy.utils - INFO - Converting prism:coverDate

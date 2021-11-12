@@ -22,14 +22,15 @@ def rw_doc(client,scp_id):
         #json.dump(scp_doc.data, outfile)
 
 def search_author(client, author):
-    doc_srch = ElsSearch("AU-ID(57204495477)",'author')
-    doc_srch.execute(client)
+    doc_srch = ElsSearch(f"AU-ID({author})",'scopus')
+    doc_srch.execute(client,get_all = True)
     result = doc_srch.results
     if len(result) == 0 :
         print('Author tidak ditemukan')
     else:
         with open('author.json', 'w') as f:
             f.write(json.dumps(result))
+        return result
 
 def search_authorID(client, author):
     auth_srch = ElsAuthor(author_id=author)

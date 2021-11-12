@@ -161,3 +161,58 @@ and using headers {'X-ELS-APIKey': 'c4e44278354290d3c9af739fb034d749', 'User-Age
 2021-09-15 11:58:42,888 - elsapy.elssearch - INFO - Module loaded.
 2021-09-15 11:58:42,889 - elsapy.elsprofile - INFO - Module loaded.
 2021-09-15 11:58:43,195 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=AU-ID%2857204495477%29
+2021-09-15 20:21:57,995 - elsapy.elsclient - INFO - Module loaded.
+2021-09-15 20:21:58,012 - elsapy.elsentity - INFO - Module loaded.
+2021-09-15 20:21:58,013 - elsapy.elsdoc - INFO - Module loaded.
+2021-09-15 20:22:01,146 - elsapy.utils - INFO - Module loaded.
+2021-09-15 20:22:01,147 - elsapy.elssearch - INFO - Module loaded.
+2021-09-15 20:22:01,168 - elsapy.elsprofile - INFO - Module loaded.
+2021-09-15 20:22:01,942 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=AU-ID%2857204495477%29
+2021-09-15 20:22:27,745 - elsapy.elsclient - INFO - Module loaded.
+2021-09-15 20:22:27,750 - elsapy.elsentity - INFO - Module loaded.
+2021-09-15 20:22:27,752 - elsapy.elsdoc - INFO - Module loaded.
+2021-09-15 20:22:28,731 - elsapy.utils - INFO - Module loaded.
+2021-09-15 20:22:28,732 - elsapy.elssearch - INFO - Module loaded.
+2021-09-15 20:22:28,734 - elsapy.elsprofile - INFO - Module loaded.
+2021-09-15 20:22:29,170 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/author/author_id/57204495477
+2021-09-15 20:22:32,453 - elsapy.elsentity - WARNING - HTTP 401 Error from https://api.elsevier.com/content/author/author_id/57204495477
+and using headers {'X-ELS-APIKey': 'c4e44278354290d3c9af739fb034d749', 'User-Agent': 'elsapy-v0.5.0', 'Accept': 'application/json'}:
+{"service-error":{"status":{"statusCode":"AUTHORIZATION_ERROR","statusText":"The requestor is not authorized to access the requested view or fields of the resource"}}}
+2021-09-15 21:33:03,148 - elsapy.elsentity - INFO - Module loaded.
+2021-09-15 21:33:03,150 - elsapy.elsdoc - INFO - Module loaded.
+2021-09-15 21:33:04,029 - elsapy.utils - INFO - Module loaded.
+2021-09-15 21:33:04,030 - elsapy.elssearch - INFO - Module loaded.
+2021-09-15 21:33:04,032 - elsapy.elsprofile - INFO - Module loaded.
+2021-09-15 21:33:41,169 - elsapy.elsentity - INFO - Module loaded.
+2021-09-15 21:33:41,171 - elsapy.elsdoc - INFO - Module loaded.
+2021-09-15 21:33:42,000 - elsapy.utils - INFO - Module loaded.
+2021-09-15 21:33:42,000 - elsapy.elssearch - INFO - Module loaded.
+2021-09-15 21:33:42,003 - elsapy.elsprofile - INFO - Module loaded.
+2021-09-15 21:34:08,111 - elsapy.elsentity - INFO - Module loaded.
+2021-09-15 21:34:08,113 - elsapy.elsdoc - INFO - Module loaded.
+2021-09-15 21:34:08,991 - elsapy.utils - INFO - Module loaded.
+2021-09-15 21:34:08,991 - elsapy.elssearch - INFO - Module loaded.
+2021-09-15 21:34:08,993 - elsapy.elsprofile - INFO - Module loaded.
+2021-09-15 21:34:30,407 - elsapy.elsclient - INFO - Module loaded.
+2021-09-15 21:34:30,423 - elsapy.elsentity - INFO - Module loaded.
+2021-09-15 21:34:30,424 - elsapy.elsdoc - INFO - Module loaded.
+2021-09-15 21:34:31,338 - elsapy.utils - INFO - Module loaded.
+2021-09-15 21:34:31,339 - elsapy.elssearch - INFO - Module loaded.
+2021-09-15 21:34:31,341 - elsapy.elsprofile - INFO - Module loaded.
+2021-09-15 21:34:31,771 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=AU-ID%2857204495477%29
+2021-09-15 21:34:50,120 - elsapy.elsclient - INFO - Module loaded.
+2021-09-15 21:34:50,130 - elsapy.elsentity - INFO - Module loaded.
+2021-09-15 21:34:50,130 - elsapy.elsdoc - INFO - Module loaded.
+2021-09-15 21:34:51,054 - elsapy.utils - INFO - Module loaded.
+2021-09-15 21:34:51,054 - elsapy.elssearch - INFO - Module loaded.
+2021-09-15 21:34:51,056 - elsapy.elsprofile - INFO - Module loaded.
+2021-09-15 21:34:51,465 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204495477%29
+2021-09-15 21:34:52,369 - elsapy.utils - INFO - Converting prism:coverDate
+2021-09-15 21:38:19,688 - elsapy.elsclient - INFO - Module loaded.
+2021-09-15 21:38:19,702 - elsapy.elsentity - INFO - Module loaded.
+2021-09-15 21:38:19,703 - elsapy.elsdoc - INFO - Module loaded.
+2021-09-15 21:38:20,855 - elsapy.utils - INFO - Module loaded.
+2021-09-15 21:38:20,856 - elsapy.elssearch - INFO - Module loaded.
+2021-09-15 21:38:20,859 - elsapy.elsprofile - INFO - Module loaded.
+2021-09-15 21:38:21,254 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204495477%29
+2021-09-15 21:38:22,964 - elsapy.utils - INFO - Converting prism:coverDate

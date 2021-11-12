@@ -171,3 +171,5 @@
 2021-09-03 12:33:06,112 - elsapy.utils - INFO - Converting prism:coverDate
 2021-09-03 12:34:08,765 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AFFILORG%28universitas+padjadjaran%29
 2021-09-03 12:34:11,116 - elsapy.utils - INFO - Converting prism:coverDate
+2021-09-03 12:36:20,029 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTHOR-NAME%28Dian+Dharmayanti%29
+2021-09-03 12:36:20,842 - elsapy.utils - INFO - Converting prism:coverDate
