@@ -1,5 +1,6 @@
 from elsapy.elsclient import ElsClient
 import json
+import sys
 
 from werkzeug.datastructures import Range
 import scrapper
@@ -16,7 +17,11 @@ if __name__ == '__main__':
     #id_scopus=connection.loadScopusID()
     #data = scrapper.search_author(client,idsatu)
     #connection.insertPush(data,idsatu)
-
+    print("Scraping Data.....")
     for row in tqdm(connection.loadScopusID()):
         data = scrapper.search_author(client,row[0])
         connection.insertPush(data,row[0])
+    print("Scraping Selesai")
+    #f = open("demofile3.txt", "a")
+    #f.write("Woops! I have deleted the content!\n")
+    #f.close()

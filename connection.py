@@ -5,8 +5,9 @@ from tqdm import tqdm
 
 db = mysql.connector.connect(
     host="localhost",
-    user="root",
-    passwd="",
+    port="39000",
+    user="milzandb",
+    passwd="@RootDBCybercode",
     database="db_scopus"
 )
 

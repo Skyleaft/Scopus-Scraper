@@ -1,0 +1,175 @@
+2021-11-15 10:14:45,431 - elsapy.elsclient - INFO - Module loaded.
+2021-11-15 10:15:40,306 - elsapy.elsclient - INFO - Module loaded.
+2021-11-15 10:15:40,351 - elsapy.elsentity - INFO - Module loaded.
+2021-11-15 10:15:40,351 - elsapy.elsdoc - INFO - Module loaded.
+2021-11-15 10:15:40,551 - elsapy.utils - INFO - Module loaded.
+2021-11-15 10:15:40,551 - elsapy.elssearch - INFO - Module loaded.
+2021-11-15 10:15:40,551 - elsapy.elsprofile - INFO - Module loaded.
+2021-11-15 10:18:20,275 - elsapy.elsclient - INFO - Module loaded.
+2021-11-15 10:18:20,319 - elsapy.elsentity - INFO - Module loaded.
+2021-11-15 10:18:20,320 - elsapy.elsdoc - INFO - Module loaded.
+2021-11-15 10:18:20,519 - elsapy.utils - INFO - Module loaded.
+2021-11-15 10:18:20,519 - elsapy.elssearch - INFO - Module loaded.
+2021-11-15 10:18:20,519 - elsapy.elsprofile - INFO - Module loaded.
+2021-11-15 10:18:43,115 - elsapy.elsclient - INFO - Module loaded.
+2021-11-15 10:18:43,162 - elsapy.elsentity - INFO - Module loaded.
+2021-11-15 10:18:43,162 - elsapy.elsdoc - INFO - Module loaded.
+2021-11-15 10:18:43,360 - elsapy.utils - INFO - Module loaded.
+2021-11-15 10:18:43,360 - elsapy.elssearch - INFO - Module loaded.
+2021-11-15 10:18:43,360 - elsapy.elsprofile - INFO - Module loaded.
+2021-11-15 10:20:25,711 - elsapy.elsclient - INFO - Module loaded.
+2021-11-15 10:20:25,757 - elsapy.elsentity - INFO - Module loaded.
+2021-11-15 10:20:25,757 - elsapy.elsdoc - INFO - Module loaded.
+2021-11-15 10:20:25,972 - elsapy.utils - INFO - Module loaded.
+2021-11-15 10:20:25,972 - elsapy.elssearch - INFO - Module loaded.
+2021-11-15 10:20:25,972 - elsapy.elsprofile - INFO - Module loaded.
+2021-11-15 10:20:26,712 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856411885900%29
+2021-11-15 10:20:28,208 - elsapy.utils - INFO - Converting prism:coverDate
+2021-11-15 10:20:29,205 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857164794100%29
+2021-11-15 10:20:30,162 - elsapy.utils - INFO - Converting prism:coverDate
+2021-11-15 10:20:31,157 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204174766%29
+2021-11-15 10:20:32,267 - elsapy.utils - INFO - Converting prism:coverDate
+2021-11-15 10:20:33,265 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204179314%29
+2021-11-15 10:20:34,966 - elsapy.utils - INFO - Converting prism:coverDate
+2021-11-15 10:20:35,964 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204187129%29
+2021-11-15 10:20:36,982 - elsapy.utils - INFO - Converting prism:coverDate
+2021-11-15 10:20:37,979 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204495477%29
+2021-11-15 10:20:39,772 - elsapy.utils - INFO - Converting prism:coverDate
+2021-11-15 10:23:25,384 - elsapy.elsclient - INFO - Module loaded.
+2021-11-15 10:23:25,430 - elsapy.elsentity - INFO - Module loaded.
+2021-11-15 10:23:25,431 - elsapy.elsdoc - INFO - Module loaded.
+2021-11-15 10:23:25,659 - elsapy.utils - INFO - Module loaded.
+2021-11-15 10:23:25,659 - elsapy.elssearch - INFO - Module loaded.
+2021-11-15 10:23:25,659 - elsapy.elsprofile - INFO - Module loaded.
+2021-11-15 10:23:26,385 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856411885900%29
+2021-11-15 10:23:27,099 - elsapy.utils - INFO - Converting prism:coverDate
+2021-11-15 10:23:28,092 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857164794100%29
+2021-11-15 10:23:29,926 - elsapy.utils - INFO - Converting prism:coverDate
+2021-11-15 10:23:30,924 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204174766%29
+2021-11-15 10:23:31,896 - elsapy.utils - INFO - Converting prism:coverDate
+2021-11-15 10:23:32,892 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204179314%29
+2021-11-15 10:23:33,998 - elsapy.utils - INFO - Converting prism:coverDate
+2021-11-15 10:23:34,996 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204187129%29
+2021-11-15 10:23:36,790 - elsapy.utils - INFO - Converting prism:coverDate
+2021-11-15 10:23:37,784 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204495477%29
+2021-11-15 10:23:39,744 - elsapy.utils - INFO - Converting prism:coverDate
+2021-11-15 10:26:34,468 - elsapy.elsclient - INFO - Module loaded.
+2021-11-15 10:26:34,513 - elsapy.elsentity - INFO - Module loaded.
+2021-11-15 10:26:34,513 - elsapy.elsdoc - INFO - Module loaded.
+2021-11-15 10:26:34,712 - elsapy.utils - INFO - Module loaded.
+2021-11-15 10:26:34,713 - elsapy.elssearch - INFO - Module loaded.
+2021-11-15 10:26:34,713 - elsapy.elsprofile - INFO - Module loaded.
+2021-11-15 10:26:35,469 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856411885900%29
+2021-11-15 10:26:37,122 - elsapy.utils - INFO - Converting prism:coverDate
+2021-11-15 10:26:38,119 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857164794100%29
+2021-11-15 10:26:39,153 - elsapy.utils - INFO - Converting prism:coverDate
+2021-11-15 10:26:40,148 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204174766%29
+2021-11-15 10:26:40,871 - elsapy.utils - INFO - Converting prism:coverDate
+2021-11-15 10:26:41,864 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204179314%29
+2021-11-15 10:26:43,639 - elsapy.utils - INFO - Converting prism:coverDate
+2021-11-15 10:26:44,637 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204187129%29
+2021-11-15 10:26:45,771 - elsapy.utils - INFO - Converting prism:coverDate
+2021-11-15 10:26:46,765 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204495477%29
+2021-11-15 10:26:47,782 - elsapy.utils - INFO - Converting prism:coverDate
+2021-11-15 10:55:14,324 - elsapy.elsclient - INFO - Module loaded.
+2021-11-15 10:55:14,374 - elsapy.elsentity - INFO - Module loaded.
+2021-11-15 10:55:14,375 - elsapy.elsdoc - INFO - Module loaded.
+2021-11-15 10:55:14,599 - elsapy.utils - INFO - Module loaded.
+2021-11-15 10:55:14,599 - elsapy.elssearch - INFO - Module loaded.
+2021-11-15 10:55:14,599 - elsapy.elsprofile - INFO - Module loaded.
+2021-11-15 10:55:25,024 - elsapy.elsclient - INFO - Module loaded.
+2021-11-15 10:55:25,069 - elsapy.elsentity - INFO - Module loaded.
+2021-11-15 10:55:25,069 - elsapy.elsdoc - INFO - Module loaded.
+2021-11-15 10:55:25,276 - elsapy.utils - INFO - Module loaded.
+2021-11-15 10:55:25,276 - elsapy.elssearch - INFO - Module loaded.
+2021-11-15 10:55:25,277 - elsapy.elsprofile - INFO - Module loaded.
+2021-11-15 10:56:39,184 - elsapy.elsclient - INFO - Module loaded.
+2021-11-15 10:56:39,230 - elsapy.elsentity - INFO - Module loaded.
+2021-11-15 10:56:39,231 - elsapy.elsdoc - INFO - Module loaded.
+2021-11-15 10:56:39,439 - elsapy.utils - INFO - Module loaded.
+2021-11-15 10:56:39,439 - elsapy.elssearch - INFO - Module loaded.
+2021-11-15 10:56:39,440 - elsapy.elsprofile - INFO - Module loaded.
+2021-11-15 10:56:44,720 - elsapy.elsclient - INFO - Module loaded.
+2021-11-15 10:56:44,767 - elsapy.elsentity - INFO - Module loaded.
+2021-11-15 10:56:44,767 - elsapy.elsdoc - INFO - Module loaded.
+2021-11-15 10:56:44,979 - elsapy.utils - INFO - Module loaded.
+2021-11-15 10:56:44,980 - elsapy.elssearch - INFO - Module loaded.
+2021-11-15 10:56:44,980 - elsapy.elsprofile - INFO - Module loaded.
+2021-11-15 10:57:00,164 - elsapy.elsclient - INFO - Module loaded.
+2021-11-15 10:57:00,212 - elsapy.elsentity - INFO - Module loaded.
+2021-11-15 10:57:00,212 - elsapy.elsdoc - INFO - Module loaded.
+2021-11-15 10:57:00,418 - elsapy.utils - INFO - Module loaded.
+2021-11-15 10:57:00,419 - elsapy.elssearch - INFO - Module loaded.
+2021-11-15 10:57:00,419 - elsapy.elsprofile - INFO - Module loaded.
+2021-11-15 11:18:01,222 - elsapy.elsclient - INFO - Module loaded.
+2021-11-15 11:18:01,266 - elsapy.elsentity - INFO - Module loaded.
+2021-11-15 11:18:01,266 - elsapy.elsdoc - INFO - Module loaded.
+2021-11-15 11:18:01,489 - elsapy.utils - INFO - Module loaded.
+2021-11-15 11:18:01,489 - elsapy.elssearch - INFO - Module loaded.
+2021-11-15 11:18:01,489 - elsapy.elsprofile - INFO - Module loaded.
+2021-11-15 11:18:02,223 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856411885900%29
+2021-11-15 11:18:03,803 - elsapy.utils - INFO - Converting prism:coverDate
+2021-11-15 11:18:04,800 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857164794100%29
+2021-11-15 11:18:05,813 - elsapy.utils - INFO - Converting prism:coverDate
+2021-11-15 11:18:06,811 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204174766%29
+2021-11-15 11:18:08,663 - elsapy.utils - INFO - Converting prism:coverDate
+2021-11-15 11:18:09,659 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204179314%29
+2021-11-15 11:18:11,406 - elsapy.utils - INFO - Converting prism:coverDate
+2021-11-15 11:18:12,404 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204187129%29
+2021-11-15 11:18:14,297 - elsapy.utils - INFO - Converting prism:coverDate
+2021-11-15 11:18:15,288 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204495477%29
+2021-11-15 11:18:16,737 - elsapy.utils - INFO - Converting prism:coverDate
+2021-11-15 11:29:01,740 - elsapy.elsclient - INFO - Module loaded.
+2021-11-15 11:29:01,794 - elsapy.elsentity - INFO - Module loaded.
+2021-11-15 11:29:01,795 - elsapy.elsdoc - INFO - Module loaded.
+2021-11-15 11:29:02,049 - elsapy.utils - INFO - Module loaded.
+2021-11-15 11:29:02,049 - elsapy.elssearch - INFO - Module loaded.
+2021-11-15 11:29:02,049 - elsapy.elsprofile - INFO - Module loaded.
+2021-11-15 11:30:01,272 - elsapy.elsclient - INFO - Module loaded.
+2021-11-15 11:30:01,318 - elsapy.elsentity - INFO - Module loaded.
+2021-11-15 11:30:01,318 - elsapy.elsdoc - INFO - Module loaded.
+2021-11-15 11:30:01,566 - elsapy.utils - INFO - Module loaded.
+2021-11-15 11:30:01,566 - elsapy.elssearch - INFO - Module loaded.
+2021-11-15 11:30:01,567 - elsapy.elsprofile - INFO - Module loaded.
+2021-11-15 11:31:01,806 - elsapy.elsclient - INFO - Module loaded.
+2021-11-15 11:31:01,856 - elsapy.elsentity - INFO - Module loaded.
+2021-11-15 11:31:01,856 - elsapy.elsdoc - INFO - Module loaded.
+2021-11-15 11:31:02,129 - elsapy.utils - INFO - Module loaded.
+2021-11-15 11:31:02,129 - elsapy.elssearch - INFO - Module loaded.
+2021-11-15 11:31:02,130 - elsapy.elsprofile - INFO - Module loaded.
+2021-11-15 11:34:02,013 - elsapy.elsclient - INFO - Module loaded.
+2021-11-15 11:34:02,065 - elsapy.elsentity - INFO - Module loaded.
+2021-11-15 11:34:02,066 - elsapy.elsdoc - INFO - Module loaded.
+2021-11-15 11:34:02,284 - elsapy.utils - INFO - Module loaded.
+2021-11-15 11:34:02,284 - elsapy.elssearch - INFO - Module loaded.
+2021-11-15 11:34:02,284 - elsapy.elsprofile - INFO - Module loaded.
+2021-11-15 11:34:03,014 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856411885900%29
+2021-11-15 11:34:05,525 - elsapy.utils - INFO - Converting prism:coverDate
+2021-11-15 11:34:06,523 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857164794100%29
+2021-11-15 11:34:08,347 - elsapy.utils - INFO - Converting prism:coverDate
+2021-11-15 11:34:09,345 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204174766%29
+2021-11-15 11:34:10,042 - elsapy.utils - INFO - Converting prism:coverDate
+2021-11-15 11:34:11,040 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204179314%29
+2021-11-15 11:34:11,671 - elsapy.utils - INFO - Converting prism:coverDate
+2021-11-15 11:34:12,669 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204187129%29
+2021-11-15 11:34:14,178 - elsapy.utils - INFO - Converting prism:coverDate
+2021-11-15 11:34:15,175 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204495477%29
+2021-11-15 11:34:16,594 - elsapy.utils - INFO - Converting prism:coverDate
+2021-11-15 11:36:01,313 - elsapy.elsclient - INFO - Module loaded.
+2021-11-15 11:36:01,362 - elsapy.elsentity - INFO - Module loaded.
+2021-11-15 11:36:01,362 - elsapy.elsdoc - INFO - Module loaded.
+2021-11-15 11:36:01,631 - elsapy.utils - INFO - Module loaded.
+2021-11-15 11:36:01,631 - elsapy.elssearch - INFO - Module loaded.
+2021-11-15 11:36:01,632 - elsapy.elsprofile - INFO - Module loaded.
+2021-11-15 11:36:02,314 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856411885900%29
+2021-11-15 11:36:03,873 - elsapy.utils - INFO - Converting prism:coverDate
+2021-11-15 11:36:04,870 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857164794100%29
+2021-11-15 11:36:06,396 - elsapy.utils - INFO - Converting prism:coverDate
+2021-11-15 11:36:07,392 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204174766%29
+2021-11-15 11:36:08,712 - elsapy.utils - INFO - Converting prism:coverDate
+2021-11-15 11:36:09,709 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204179314%29
+2021-11-15 11:36:10,397 - elsapy.utils - INFO - Converting prism:coverDate
+2021-11-15 11:36:11,395 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204187129%29
+2021-11-15 11:36:12,086 - elsapy.utils - INFO - Converting prism:coverDate
+2021-11-15 11:36:13,079 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204495477%29
+2021-11-15 11:36:14,578 - elsapy.utils - INFO - Converting prism:coverDate
