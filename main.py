@@ -9,19 +9,17 @@ from tqdm import tqdm
 
 
 if __name__ == '__main__':
+    #load config api
     con_file = open("config.json")
     config = json.load(con_file)
     con_file.close()
     # ambil config api
     client = ElsClient(config['apikey'])
-    #id_scopus=connection.loadScopusID()
-    #data = scrapper.search_author(client,idsatu)
-    #connection.insertPush(data,idsatu)
     print("Scraping Data.....")
+    #looping sebanyak data dosen yang memiliki id scopus
     for row in tqdm(connection.loadScopusID()):
+        #cari author dari scopus id
         data = scrapper.search_author(client,row[0])
+        #push ke database
         connection.insertPush(data,row[0])
     print("Scraping Selesai")
-    #f = open("demofile3.txt", "a")
-    #f.write("Woops! I have deleted the content!\n")
-    #f.close()
