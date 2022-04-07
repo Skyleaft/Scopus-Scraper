@@ -1,1 +1,514 @@
-[{"@_fa": "true", "link": [{"@_fa": "true", "@ref": "self", "@href": "https://api.elsevier.com/content/abstract/scopus_id/85091390254"}, {"@_fa": "true", "@ref": "author-affiliation", "@href": "https://api.elsevier.com/content/abstract/scopus_id/85091390254?field=author,affiliation"}, {"@_fa": "true", "@ref": "scopus", "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85091390254&origin=inward"}, {"@_fa": "true", "@ref": "scopus-citedby", "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85091390254&origin=inward"}], "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85091390254", "dc:identifier": "SCOPUS_ID:85091390254", "eid": "2-s2.0-85091390254", "dc:title": "Design of Learning Media for Web-Based Subjects Geography. (Case study: Class XI majoring in social studies at Citra Nusa Senior High School)", "dc:creator": "Wahyuni W.", "prism:publicationName": "IOP Conference Series: Materials Science and Engineering", "prism:issn": "17578981", "prism:eIssn": "1757899X", "prism:volume": "879", "prism:issueIdentifier": "1", "prism:pageRange": null, "prism:coverDate": "2020-08-05", "prism:coverDisplayDate": "5 August 2020", "prism:doi": "10.1088/1757-899X/879/1/012079", "citedby-count": "0", "prism:aggregationType": "Conference Proceeding", "subtype": "cp", "subtypeDescription": "Conference Paper", "article-number": "012079", "source-id": "19700200831", "openaccess": "1", "openaccessFlag": true, "freetoread": {"value": [{"$": "all"}, {"$": "publisherfullgold"}]}, "freetoreadLabel": {"value": [{"$": "All Open Access"}, {"$": "Gold"}]}}, {"@_fa": "true", "link": [{"@_fa": "true", "@ref": "self", "@href": "https://api.elsevier.com/content/abstract/scopus_id/85091348598"}, {"@_fa": "true", "@ref": "author-affiliation", "@href": "https://api.elsevier.com/content/abstract/scopus_id/85091348598?field=author,affiliation"}, {"@_fa": "true", "@ref": "scopus", "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85091348598&origin=inward"}, {"@_fa": "true", "@ref": "scopus-citedby", "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85091348598&origin=inward"}], "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85091348598", "dc:identifier": "SCOPUS_ID:85091348598", "eid": "2-s2.0-85091348598", "dc:title": "Web-Based Honorary Teacher Payroll Information System", "dc:creator": "Hasti N.", "prism:publicationName": "IOP Conference Series: Materials Science and Engineering", "prism:issn": "17578981", "prism:eIssn": "1757899X", "prism:volume": "879", "prism:issueIdentifier": "1", "prism:pageRange": null, "prism:coverDate": "2020-08-05", "prism:coverDisplayDate": "5 August 2020", "prism:doi": "10.1088/1757-899X/879/1/012021", "citedby-count": "1", "affiliation": [{"@_fa": "true", "affilname": "Universitas Komputer Indonesia", "affiliation-city": "Bandung", "affiliation-country": "Indonesia"}], "prism:aggregationType": "Conference Proceeding", "subtype": "cp", "subtypeDescription": "Conference Paper", "article-number": "012021", "source-id": "19700200831", "openaccess": "1", "openaccessFlag": true, "freetoread": {"value": [{"$": "all"}, {"$": "publisherfree2read"}]}, "freetoreadLabel": {"value": [{"$": "All Open Access"}, {"$": "Bronze"}]}}, {"@_fa": "true", "link": [{"@_fa": "true", "@ref": "self", "@href": "https://api.elsevier.com/content/abstract/scopus_id/85078249658"}, {"@_fa": "true", "@ref": "author-affiliation", "@href": "https://api.elsevier.com/content/abstract/scopus_id/85078249658?field=author,affiliation"}, {"@_fa": "true", "@ref": "scopus", "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85078249658&origin=inward"}, {"@_fa": "true", "@ref": "scopus-citedby", "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85078249658&origin=inward"}], "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85078249658", "dc:identifier": "SCOPUS_ID:85078249658", "eid": "2-s2.0-85078249658", "dc:title": "Proactive socio-technical system as an unemployment solution in West Java", "dc:creator": "Mubaroq S.R.", "prism:publicationName": "Journal of Physics: Conference Series", "prism:issn": "17426588", "prism:eIssn": "17426596", "prism:volume": "1402", "prism:issueIdentifier": "2", "prism:pageRange": null, "prism:coverDate": "2019-12-16", "prism:coverDisplayDate": "16 December 2019", "prism:doi": "10.1088/1742-6596/1402/2/022072", "citedby-count": "0", "affiliation": [{"@_fa": "true", "affilname": "Universitas Pendidikan Indonesia", "affiliation-city": "Bandung", "affiliation-country": "Indonesia"}], "prism:aggregationType": "Conference Proceeding", "subtype": "cp", "subtypeDescription": "Conference Paper", "article-number": "022072", "source-id": "130053", "openaccess": "1", "openaccessFlag": true, "freetoread": {"value": [{"$": "all"}, {"$": "publisherfree2read"}]}, "freetoreadLabel": {"value": [{"$": "All Open Access"}, {"$": "Bronze"}]}}, {"@_fa": "true", "link": [{"@_fa": "true", "@ref": "self", "@href": "https://api.elsevier.com/content/abstract/scopus_id/85075894100"}, {"@_fa": "true", "@ref": "author-affiliation", "@href": "https://api.elsevier.com/content/abstract/scopus_id/85075894100?field=author,affiliation"}, {"@_fa": "true", "@ref": "scopus", "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85075894100&origin=inward"}, {"@_fa": "true", "@ref": "scopus-citedby", "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85075894100&origin=inward"}], "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85075894100", "dc:identifier": "SCOPUS_ID:85075894100", "eid": "2-s2.0-85075894100", "dc:title": "Designing Indonesian Geographic Application", "dc:creator": "Wahyuni W.", "prism:publicationName": "IOP Conference Series: Materials Science and Engineering", "prism:issn": "17578981", "prism:eIssn": "1757899X", "prism:volume": "662", "prism:issueIdentifier": "2", "prism:pageRange": null, "prism:coverDate": "2019-11-20", "prism:coverDisplayDate": "20 November 2019", "prism:doi": "10.1088/1757-899X/662/2/022088", "citedby-count": "0", "affiliation": [{"@_fa": "true", "affilname": "Universitas Komputer Indonesia", "affiliation-city": "Bandung", "affiliation-country": "Indonesia"}], "prism:aggregationType": "Conference Proceeding", "subtype": "cp", "subtypeDescription": "Conference Paper", "article-number": "022088", "source-id": "19700200831", "openaccess": "1", "openaccessFlag": true, "freetoread": {"value": [{"$": "all"}, {"$": "publisherfree2read"}]}, "freetoreadLabel": {"value": [{"$": "All Open Access"}, {"$": "Bronze"}]}}, {"@_fa": "true", "link": [{"@_fa": "true", "@ref": "self", "@href": "https://api.elsevier.com/content/abstract/scopus_id/85075892686"}, {"@_fa": "true", "@ref": "author-affiliation", "@href": "https://api.elsevier.com/content/abstract/scopus_id/85075892686?field=author,affiliation"}, {"@_fa": "true", "@ref": "scopus", "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85075892686&origin=inward"}, {"@_fa": "true", "@ref": "scopus-citedby", "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85075892686&origin=inward"}], "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85075892686", "dc:identifier": "SCOPUS_ID:85075892686", "eid": "2-s2.0-85075892686", "dc:title": "Benefits of E-Commerce Marketing for Handicraft Wayang Golek", "dc:creator": "Mariano K.", "prism:publicationName": "IOP Conference Series: Materials Science and Engineering", "prism:issn": "17578981", "prism:eIssn": "1757899X", "prism:volume": "662", "prism:issueIdentifier": "3", "prism:pageRange": null, "prism:coverDate": "2019-11-20", "prism:coverDisplayDate": "20 November 2019", "prism:doi": "10.1088/1757-899X/662/3/032010", "citedby-count": "0", "affiliation": [{"@_fa": "true", "affilname": "Universitas Komputer Indonesia", "affiliation-city": "Bandung", "affiliation-country": "Indonesia"}], "prism:aggregationType": "Conference Proceeding", "subtype": "cp", "subtypeDescription": "Conference Paper", "article-number": "032010", "source-id": "19700200831", "openaccess": "1", "openaccessFlag": true, "freetoread": {"value": [{"$": "all"}, {"$": "publisherfree2read"}]}, "freetoreadLabel": {"value": [{"$": "All Open Access"}, {"$": "Bronze"}]}}, {"@_fa": "true", "link": [{"@_fa": "true", "@ref": "self", "@href": "https://api.elsevier.com/content/abstract/scopus_id/85075887720"}, {"@_fa": "true", "@ref": "author-affiliation", "@href": "https://api.elsevier.com/content/abstract/scopus_id/85075887720?field=author,affiliation"}, {"@_fa": "true", "@ref": "scopus", "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85075887720&origin=inward"}, {"@_fa": "true", "@ref": "scopus-citedby", "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85075887720&origin=inward"}], "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85075887720", "dc:identifier": "SCOPUS_ID:85075887720", "eid": "2-s2.0-85075887720", "dc:title": "Web-Based Internship Information System", "dc:creator": "Hasti N.", "prism:publicationName": "IOP Conference Series: Materials Science and Engineering", "prism:issn": "17578981", "prism:eIssn": "1757899X", "prism:volume": "662", "prism:issueIdentifier": "2", "prism:pageRange": null, "prism:coverDate": "2019-11-20", "prism:coverDisplayDate": "20 November 2019", "prism:doi": "10.1088/1757-899X/662/2/022090", "citedby-count": "0", "affiliation": [{"@_fa": "true", "affilname": "Universitas Komputer Indonesia", "affiliation-city": "Bandung", "affiliation-country": "Indonesia"}], "prism:aggregationType": "Conference Proceeding", "subtype": "cp", "subtypeDescription": "Conference Paper", "article-number": "022090", "source-id": "19700200831", "openaccess": "1", "openaccessFlag": true, "freetoread": {"value": [{"$": "all"}, {"$": "publisherfree2read"}]}, "freetoreadLabel": {"value": [{"$": "All Open Access"}, {"$": "Bronze"}]}}, {"@_fa": "true", "link": [{"@_fa": "true", "@ref": "self", "@href": "https://api.elsevier.com/content/abstract/scopus_id/85075876149"}, {"@_fa": "true", "@ref": "author-affiliation", "@href": "https://api.elsevier.com/content/abstract/scopus_id/85075876149?field=author,affiliation"}, {"@_fa": "true", "@ref": "scopus", "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85075876149&origin=inward"}, {"@_fa": "true", "@ref": "scopus-citedby", "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85075876149&origin=inward"}], "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85075876149", "dc:identifier": "SCOPUS_ID:85075876149", "eid": "2-s2.0-85075876149", "dc:title": "Influence of Online Store on Public Enthusiasm on Japanese Anime Culture Merchandise", "dc:creator": "Narulita Y.", "prism:publicationName": "IOP Conference Series: Materials Science and Engineering", "prism:issn": "17578981", "prism:eIssn": "1757899X", "prism:volume": "662", "prism:issueIdentifier": "3", "prism:pageRange": null, "prism:coverDate": "2019-11-20", "prism:coverDisplayDate": "20 November 2019", "prism:doi": "10.1088/1757-899X/662/3/032048", "citedby-count": "0", "affiliation": [{"@_fa": "true", "affilname": "Universitas Komputer Indonesia", "affiliation-city": "Bandung", "affiliation-country": "Indonesia"}], "prism:aggregationType": "Conference Proceeding", "subtype": "cp", "subtypeDescription": "Conference Paper", "article-number": "032048", "source-id": "19700200831", "openaccess": "1", "openaccessFlag": true, "freetoread": {"value": [{"$": "all"}, {"$": "publisherfree2read"}]}, "freetoreadLabel": {"value": [{"$": "All Open Access"}, {"$": "Bronze"}]}}, {"@_fa": "true", "link": [{"@_fa": "true", "@ref": "self", "@href": "https://api.elsevier.com/content/abstract/scopus_id/85075861932"}, {"@_fa": "true", "@ref": "author-affiliation", "@href": "https://api.elsevier.com/content/abstract/scopus_id/85075861932?field=author,affiliation"}, {"@_fa": "true", "@ref": "scopus", "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85075861932&origin=inward"}, {"@_fa": "true", "@ref": "scopus-citedby", "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85075861932&origin=inward"}], "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85075861932", "dc:identifier": "SCOPUS_ID:85075861932", "eid": "2-s2.0-85075861932", "dc:title": "Society 5.0: Optimization of Socio-Technical System in Poverty Reduction", "dc:creator": "Gustiana I.", "prism:publicationName": "IOP Conference Series: Materials Science and Engineering", "prism:issn": "17578981", "prism:eIssn": "1757899X", "prism:volume": "662", "prism:issueIdentifier": "2", "prism:pageRange": null, "prism:coverDate": "2019-11-20", "prism:coverDisplayDate": "20 November 2019", "prism:doi": "10.1088/1757-899X/662/2/022019", "citedby-count": "2", "affiliation": [{"@_fa": "true", "affilname": "Universitas Komputer Indonesia", "affiliation-city": "Bandung", "affiliation-country": "Indonesia"}], "prism:aggregationType": "Conference Proceeding", "subtype": "cp", "subtypeDescription": "Conference Paper", "article-number": "022019", "source-id": "19700200831", "openaccess": "1", "openaccessFlag": true, "freetoread": {"value": [{"$": "all"}, {"$": "publisherfree2read"}]}, "freetoreadLabel": {"value": [{"$": "All Open Access"}, {"$": "Bronze"}]}}, {"@_fa": "true", "link": [{"@_fa": "true", "@ref": "self", "@href": "https://api.elsevier.com/content/abstract/scopus_id/85054868705"}, {"@_fa": "true", "@ref": "author-affiliation", "@href": "https://api.elsevier.com/content/abstract/scopus_id/85054868705?field=author,affiliation"}, {"@_fa": "true", "@ref": "scopus", "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85054868705&origin=inward"}, {"@_fa": "true", "@ref": "scopus-citedby", "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85054868705&origin=inward"}], "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85054868705", "dc:identifier": "SCOPUS_ID:85054868705", "eid": "2-s2.0-85054868705", "dc:title": "Information System of Web-Based Wedding Organizer", "dc:creator": "Hasti N.", "prism:publicationName": "IOP Conference Series: Materials Science and Engineering", "prism:issn": "17578981", "prism:eIssn": "1757899X", "prism:volume": "407", "prism:issueIdentifier": "1", "prism:pageRange": null, "prism:coverDate": "2018-09-26", "prism:coverDisplayDate": "26 September 2018", "prism:doi": "10.1088/1757-899X/407/1/012137", "citedby-count": "4", "affiliation": [{"@_fa": "true", "affilname": "Universitas Komputer Indonesia", "affiliation-city": "Bandung", "affiliation-country": "Indonesia"}], "prism:aggregationType": "Conference Proceeding", "subtype": "cp", "subtypeDescription": "Conference Paper", "article-number": "012137", "source-id": "19700200831", "openaccess": "1", "openaccessFlag": true, "freetoread": {"value": [{"$": "all"}, {"$": "publisherfree2read"}]}, "freetoreadLabel": {"value": [{"$": "All Open Access"}, {"$": "Bronze"}]}}]
+[{
+    "@_fa": "true",
+    "link": [{
+        "@_fa": "true",
+        "@ref": "self",
+        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85114312008"
+    }, {
+        "@_fa": "true",
+        "@ref": "author-affiliation",
+        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85114312008?field=author,affiliation"
+    }, {
+        "@_fa": "true",
+        "@ref": "scopus",
+        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85114312008&origin=inward"
+    }, {
+        "@_fa": "true",
+        "@ref": "scopus-citedby",
+        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85114312008&origin=inward"
+    }],
+    "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85114312008",
+    "dc:identifier": "SCOPUS_ID:85114312008",
+    "eid": "2-s2.0-85114312008",
+    "dc:title": "Driving safety application using wearable device and mobile technology",
+    "dc:creator": "Setiawan E.B.",
+    "prism:publicationName": "Journal of Engineering Science and Technology",
+    "prism:issn": "18234690",
+    "prism:volume": "16",
+    "prism:issueIdentifier": "4",
+    "prism:pageRange": "3343-3357",
+    "prism:coverDate": "2021-08-01",
+    "prism:coverDisplayDate": "August 2021",
+    "citedby-count": "0",
+    "affiliation": [{
+        "@_fa": "true",
+        "affilname": "Universitas Komputer Indonesia",
+        "affiliation-city": "Bandung",
+        "affiliation-country": "Indonesia"
+    }],
+    "prism:aggregationType": "Journal",
+    "subtype": "ar",
+    "subtypeDescription": "Article",
+    "source-id": "18200156709",
+    "openaccess": "0",
+    "openaccessFlag": false
+}, {
+    "@_fa": "true",
+    "link": [{
+        "@_fa": "true",
+        "@ref": "self",
+        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85123722800"
+    }, {
+        "@_fa": "true",
+        "@ref": "author-affiliation",
+        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85123722800?field=author,affiliation"
+    }, {
+        "@_fa": "true",
+        "@ref": "scopus",
+        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85123722800&origin=inward"
+    }, {
+        "@_fa": "true",
+        "@ref": "scopus-citedby",
+        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85123722800&origin=inward"
+    }],
+    "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85123722800",
+    "dc:identifier": "SCOPUS_ID:85123722800",
+    "eid": "2-s2.0-85123722800",
+    "dc:title": "Model Recommendation Creation for New Entrepreneur using TOPSIS Method in Bandung Raya",
+    "dc:creator": "Setiyadi A.",
+    "prism:publicationName": "Journal of Engineering Research (Kuwait)",
+    "prism:issn": "23071885",
+    "prism:volume": "9",
+    "prism:pageRange": null,
+    "prism:coverDate": "2021-01-01",
+    "prism:coverDisplayDate": "2021",
+    "prism:doi": "10.36909/jer.ASSEEE.16101",
+    "citedby-count": "0",
+    "affiliation": [{
+        "@_fa": "true",
+        "affilname": "Universitas Komputer Indonesia",
+        "affiliation-city": "Bandung",
+        "affiliation-country": "Indonesia"
+    }],
+    "prism:aggregationType": "Journal",
+    "subtype": "ar",
+    "subtypeDescription": "Article",
+    "source-id": "21100293700",
+    "openaccess": "1",
+    "openaccessFlag": true,
+    "freetoread": {
+        "value": [{
+            "$": "all"
+        }, {
+            "$": "publisherfullgold"
+        }]
+    },
+    "freetoreadLabel": {
+        "value": [{
+            "$": "All Open Access"
+        }, {
+            "$": "Gold"
+        }]
+    }
+}, {
+    "@_fa": "true",
+    "link": [{
+        "@_fa": "true",
+        "@ref": "self",
+        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85123719098"
+    }, {
+        "@_fa": "true",
+        "@ref": "author-affiliation",
+        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85123719098?field=author,affiliation"
+    }, {
+        "@_fa": "true",
+        "@ref": "scopus",
+        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85123719098&origin=inward"
+    }, {
+        "@_fa": "true",
+        "@ref": "scopus-citedby",
+        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85123719098&origin=inward"
+    }],
+    "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85123719098",
+    "dc:identifier": "SCOPUS_ID:85123719098",
+    "eid": "2-s2.0-85123719098",
+    "dc:title": "Mapping application for Greater Bandung Area using Web Technology",
+    "dc:creator": "Setiawan E.B.",
+    "prism:publicationName": "Journal of Engineering Research (Kuwait)",
+    "prism:issn": "23071885",
+    "prism:volume": "9",
+    "prism:pageRange": null,
+    "prism:coverDate": "2021-01-01",
+    "prism:coverDisplayDate": "2021",
+    "prism:doi": "10.36909/jer.ASSEEE.16093",
+    "citedby-count": "0",
+    "affiliation": [{
+        "@_fa": "true",
+        "affilname": "Universitas Komputer Indonesia",
+        "affiliation-city": "Bandung",
+        "affiliation-country": "Indonesia"
+    }],
+    "prism:aggregationType": "Journal",
+    "subtype": "ar",
+    "subtypeDescription": "Article",
+    "article-number": "16093",
+    "source-id": "21100293700",
+    "openaccess": "1",
+    "openaccessFlag": true,
+    "freetoread": {
+        "value": [{
+            "$": "all"
+        }, {
+            "$": "publisherfullgold"
+        }]
+    },
+    "freetoreadLabel": {
+        "value": [{
+            "$": "All Open Access"
+        }, {
+            "$": "Gold"
+        }]
+    }
+}, {
+    "@_fa": "true",
+    "link": [{
+        "@_fa": "true",
+        "@ref": "self",
+        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85091381554"
+    }, {
+        "@_fa": "true",
+        "@ref": "author-affiliation",
+        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85091381554?field=author,affiliation"
+    }, {
+        "@_fa": "true",
+        "@ref": "scopus",
+        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85091381554&origin=inward"
+    }, {
+        "@_fa": "true",
+        "@ref": "scopus-citedby",
+        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85091381554&origin=inward"
+    }],
+    "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85091381554",
+    "dc:identifier": "SCOPUS_ID:85091381554",
+    "eid": "2-s2.0-85091381554",
+    "dc:title": "Private Cloud Development in West Java Cooperative and Entrepreneurship Education and Training Center",
+    "dc:creator": "Setiyadi A.",
+    "prism:publicationName": "IOP Conference Series: Materials Science and Engineering",
+    "prism:issn": "17578981",
+    "prism:eIssn": "1757899X",
+    "prism:volume": "879",
+    "prism:issueIdentifier": "1",
+    "prism:pageRange": null,
+    "prism:coverDate": "2020-08-05",
+    "prism:coverDisplayDate": "5 August 2020",
+    "prism:doi": "10.1088/1757-899X/879/1/012036",
+    "citedby-count": "2",
+    "affiliation": [{
+        "@_fa": "true",
+        "affilname": "Universitas Komputer Indonesia",
+        "affiliation-city": "Bandung",
+        "affiliation-country": "Indonesia"
+    }],
+    "prism:aggregationType": "Conference Proceeding",
+    "subtype": "cp",
+    "subtypeDescription": "Conference Paper",
+    "article-number": "012036",
+    "source-id": "19700200831",
+    "openaccess": "1",
+    "openaccessFlag": true,
+    "freetoread": {
+        "value": [{
+            "$": "all"
+        }, {
+            "$": "publisherfree2read"
+        }]
+    },
+    "freetoreadLabel": {
+        "value": [{
+            "$": "All Open Access"
+        }, {
+            "$": "Bronze"
+        }]
+    }
+}, {
+    "@_fa": "true",
+    "link": [{
+        "@_fa": "true",
+        "@ref": "self",
+        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85075890502"
+    }, {
+        "@_fa": "true",
+        "@ref": "author-affiliation",
+        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85075890502?field=author,affiliation"
+    }, {
+        "@_fa": "true",
+        "@ref": "scopus",
+        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85075890502&origin=inward"
+    }, {
+        "@_fa": "true",
+        "@ref": "scopus-citedby",
+        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85075890502&origin=inward"
+    }],
+    "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85075890502",
+    "dc:identifier": "SCOPUS_ID:85075890502",
+    "eid": "2-s2.0-85075890502",
+    "dc:title": "Blind scanner Server and Batch Programming Implementation in the Process of Automatically Scan Documents",
+    "dc:creator": "Setiyadi A.",
+    "prism:publicationName": "IOP Conference Series: Materials Science and Engineering",
+    "prism:issn": "17578981",
+    "prism:eIssn": "1757899X",
+    "prism:volume": "662",
+    "prism:issueIdentifier": "2",
+    "prism:pageRange": null,
+    "prism:coverDate": "2019-11-20",
+    "prism:coverDisplayDate": "20 November 2019",
+    "prism:doi": "10.1088/1757-899X/662/2/022068",
+    "citedby-count": "2",
+    "affiliation": [{
+        "@_fa": "true",
+        "affilname": "Universitas Komputer Indonesia",
+        "affiliation-city": "Bandung",
+        "affiliation-country": "Indonesia"
+    }],
+    "prism:aggregationType": "Conference Proceeding",
+    "subtype": "cp",
+    "subtypeDescription": "Conference Paper",
+    "article-number": "022068",
+    "source-id": "19700200831",
+    "openaccess": "1",
+    "openaccessFlag": true,
+    "freetoread": {
+        "value": [{
+            "$": "all"
+        }, {
+            "$": "publisherfree2read"
+        }]
+    },
+    "freetoreadLabel": {
+        "value": [{
+            "$": "All Open Access"
+        }, {
+            "$": "Bronze"
+        }]
+    }
+}, {
+    "@_fa": "true",
+    "link": [{
+        "@_fa": "true",
+        "@ref": "self",
+        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85075885518"
+    }, {
+        "@_fa": "true",
+        "@ref": "author-affiliation",
+        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85075885518?field=author,affiliation"
+    }, {
+        "@_fa": "true",
+        "@ref": "scopus",
+        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85075885518&origin=inward"
+    }, {
+        "@_fa": "true",
+        "@ref": "scopus-citedby",
+        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85075885518&origin=inward"
+    }],
+    "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85075885518",
+    "dc:identifier": "SCOPUS_ID:85075885518",
+    "eid": "2-s2.0-85075885518",
+    "dc:title": "Quality Analysis of Mobile Web Server",
+    "dc:creator": "Setiawan E.",
+    "prism:publicationName": "IOP Conference Series: Materials Science and Engineering",
+    "prism:issn": "17578981",
+    "prism:eIssn": "1757899X",
+    "prism:volume": "662",
+    "prism:issueIdentifier": "2",
+    "prism:pageRange": null,
+    "prism:coverDate": "2019-11-20",
+    "prism:coverDisplayDate": "20 November 2019",
+    "prism:doi": "10.1088/1757-899X/662/2/022043",
+    "citedby-count": "2",
+    "affiliation": [{
+        "@_fa": "true",
+        "affilname": "Universitas Komputer Indonesia",
+        "affiliation-city": "Bandung",
+        "affiliation-country": "Indonesia"
+    }],
+    "prism:aggregationType": "Conference Proceeding",
+    "subtype": "cp",
+    "subtypeDescription": "Conference Paper",
+    "article-number": "022043",
+    "source-id": "19700200831",
+    "openaccess": "1",
+    "openaccessFlag": true,
+    "freetoread": {
+        "value": [{
+            "$": "all"
+        }, {
+            "$": "publisherfree2read"
+        }]
+    },
+    "freetoreadLabel": {
+        "value": [{
+            "$": "All Open Access"
+        }, {
+            "$": "Bronze"
+        }]
+    }
+}, {
+    "@_fa": "true",
+    "link": [{
+        "@_fa": "true",
+        "@ref": "self",
+        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85054883332"
+    }, {
+        "@_fa": "true",
+        "@ref": "author-affiliation",
+        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85054883332?field=author,affiliation"
+    }, {
+        "@_fa": "true",
+        "@ref": "scopus",
+        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85054883332&origin=inward"
+    }, {
+        "@_fa": "true",
+        "@ref": "scopus-citedby",
+        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85054883332&origin=inward"
+    }],
+    "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85054883332",
+    "dc:identifier": "SCOPUS_ID:85054883332",
+    "eid": "2-s2.0-85054883332",
+    "dc:title": "Information System Monitoring Access Log Database on Database Server",
+    "dc:creator": "Setiyadi A.",
+    "prism:publicationName": "IOP Conference Series: Materials Science and Engineering",
+    "prism:issn": "17578981",
+    "prism:eIssn": "1757899X",
+    "prism:volume": "407",
+    "prism:issueIdentifier": "1",
+    "prism:pageRange": null,
+    "prism:coverDate": "2018-09-26",
+    "prism:coverDisplayDate": "26 September 2018",
+    "prism:doi": "10.1088/1757-899X/407/1/012110",
+    "citedby-count": "5",
+    "affiliation": [{
+        "@_fa": "true",
+        "affilname": "Universitas Komputer Indonesia",
+        "affiliation-city": "Bandung",
+        "affiliation-country": "Indonesia"
+    }],
+    "prism:aggregationType": "Conference Proceeding",
+    "subtype": "cp",
+    "subtypeDescription": "Conference Paper",
+    "article-number": "012110",
+    "source-id": "19700200831",
+    "openaccess": "1",
+    "openaccessFlag": true,
+    "freetoread": {
+        "value": [{
+            "$": "all"
+        }, {
+            "$": "publisherfree2read"
+        }]
+    },
+    "freetoreadLabel": {
+        "value": [{
+            "$": "All Open Access"
+        }, {
+            "$": "Bronze"
+        }]
+    }
+}, {
+    "@_fa": "true",
+    "link": [{
+        "@_fa": "true",
+        "@ref": "self",
+        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85054825240"
+    }, {
+        "@_fa": "true",
+        "@ref": "author-affiliation",
+        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85054825240?field=author,affiliation"
+    }, {
+        "@_fa": "true",
+        "@ref": "scopus",
+        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85054825240&origin=inward"
+    }, {
+        "@_fa": "true",
+        "@ref": "scopus-citedby",
+        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85054825240&origin=inward"
+    }],
+    "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85054825240",
+    "dc:identifier": "SCOPUS_ID:85054825240",
+    "eid": "2-s2.0-85054825240",
+    "dc:title": "Web vulnerability analysis and implementation",
+    "dc:creator": "Setiawan E.",
+    "prism:publicationName": "IOP Conference Series: Materials Science and Engineering",
+    "prism:issn": "17578981",
+    "prism:eIssn": "1757899X",
+    "prism:volume": "407",
+    "prism:issueIdentifier": "1",
+    "prism:pageRange": null,
+    "prism:coverDate": "2018-09-26",
+    "prism:coverDisplayDate": "26 September 2018",
+    "prism:doi": "10.1088/1757-899X/407/1/012081",
+    "citedby-count": "8",
+    "affiliation": [{
+        "@_fa": "true",
+        "affilname": "Universitas Komputer Indonesia",
+        "affiliation-city": "Bandung",
+        "affiliation-country": "Indonesia"
+    }],
+    "prism:aggregationType": "Conference Proceeding",
+    "subtype": "cp",
+    "subtypeDescription": "Conference Paper",
+    "article-number": "012081",
+    "source-id": "19700200831",
+    "openaccess": "1",
+    "openaccessFlag": true,
+    "freetoread": {
+        "value": [{
+            "$": "all"
+        }, {
+            "$": "publisherfree2read"
+        }]
+    },
+    "freetoreadLabel": {
+        "value": [{
+            "$": "All Open Access"
+        }, {
+            "$": "Bronze"
+        }]
+    }
+}, {
+    "@_fa": "true",
+    "link": [{
+        "@_fa": "true",
+        "@ref": "self",
+        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85065173885"
+    }, {
+        "@_fa": "true",
+        "@ref": "author-affiliation",
+        "@href": "https://api.elsevier.com/content/abstract/scopus_id/85065173885?field=author,affiliation"
+    }, {
+        "@_fa": "true",
+        "@ref": "scopus",
+        "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85065173885&origin=inward"
+    }, {
+        "@_fa": "true",
+        "@ref": "scopus-citedby",
+        "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85065173885&origin=inward"
+    }],
+    "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85065173885",
+    "dc:identifier": "SCOPUS_ID:85065173885",
+    "eid": "2-s2.0-85065173885",
+    "dc:title": "Comparative Analysis of Software Quality Model in the Selection of Marketplace E-Commerce",
+    "dc:creator": "Wahdiniwaty R.",
+    "prism:publicationName": "2018 International Conference on Information Technology Systems and Innovation, ICITSI 2018 - Proceedings",
+    "prism:isbn": [{
+        "@_fa": "true",
+        "$": "9781538656938"
+    }],
+    "prism:pageRange": "386-391",
+    "prism:coverDate": "2018-07-02",
+    "prism:coverDisplayDate": "2 July 2018",
+    "prism:doi": "10.1109/ICITSI.2018.8696074",
+    "citedby-count": "0",
+    "affiliation": [{
+        "@_fa": "true",
+        "affilname": "Universitas Komputer Indonesia",
+        "affiliation-city": "Bandung",
+        "affiliation-country": "Indonesia"
+    }],
+    "prism:aggregationType": "Conference Proceeding",
+    "subtype": "cp",
+    "subtypeDescription": "Conference Paper",
+    "article-number": "8696074",
+    "source-id": "21100923623",
+    "openaccess": "0",
+    "openaccessFlag": false
+}]

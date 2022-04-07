@@ -28,8 +28,8 @@ def search_author(client, author):
     if len(result) == 0 :
         print('Author tidak ditemukan')
     else:
-        with open('author.json', 'w') as f:
-            f.write(json.dumps(result))
+        # with open('author.json', 'w') as f:
+        #     f.write(json.dumps(result))
         return result
 
 def search_authorID(client, author):

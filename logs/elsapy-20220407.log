@@ -1,0 +1,865 @@
+2022-04-07 12:48:38,744 - elsapy.elsclient - INFO - Module loaded.
+2022-04-07 12:48:38,887 - elsapy.elsentity - INFO - Module loaded.
+2022-04-07 12:48:38,887 - elsapy.elsdoc - INFO - Module loaded.
+2022-04-07 12:48:40,772 - elsapy.utils - INFO - Module loaded.
+2022-04-07 12:48:40,772 - elsapy.elssearch - INFO - Module loaded.
+2022-04-07 12:48:40,774 - elsapy.elsprofile - INFO - Module loaded.
+2022-04-07 12:48:40,947 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856829262300%29
+2022-04-07 12:48:42,191 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 12:49:27,154 - elsapy.elsclient - INFO - Module loaded.
+2022-04-07 12:49:27,272 - elsapy.elsentity - INFO - Module loaded.
+2022-04-07 12:49:27,272 - elsapy.elsdoc - INFO - Module loaded.
+2022-04-07 12:49:27,802 - elsapy.utils - INFO - Module loaded.
+2022-04-07 12:49:27,802 - elsapy.elssearch - INFO - Module loaded.
+2022-04-07 12:49:27,804 - elsapy.elsprofile - INFO - Module loaded.
+2022-04-07 12:49:28,160 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856829262300%29
+2022-04-07 12:49:29,152 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 12:50:36,855 - elsapy.elsclient - INFO - Module loaded.
+2022-04-07 12:50:36,965 - elsapy.elsentity - INFO - Module loaded.
+2022-04-07 12:50:36,965 - elsapy.elsdoc - INFO - Module loaded.
+2022-04-07 12:50:37,463 - elsapy.utils - INFO - Module loaded.
+2022-04-07 12:50:37,463 - elsapy.elssearch - INFO - Module loaded.
+2022-04-07 12:50:37,464 - elsapy.elsprofile - INFO - Module loaded.
+2022-04-07 12:50:37,858 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856829262300%29
+2022-04-07 12:50:38,628 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 12:52:16,502 - elsapy.elsclient - INFO - Module loaded.
+2022-04-07 12:52:16,608 - elsapy.elsentity - INFO - Module loaded.
+2022-04-07 12:52:16,608 - elsapy.elsdoc - INFO - Module loaded.
+2022-04-07 12:52:17,101 - elsapy.utils - INFO - Module loaded.
+2022-04-07 12:52:17,101 - elsapy.elssearch - INFO - Module loaded.
+2022-04-07 12:52:17,102 - elsapy.elsprofile - INFO - Module loaded.
+2022-04-07 12:52:17,513 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856829262300%29
+2022-04-07 12:52:18,210 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 12:53:12,825 - elsapy.elsclient - INFO - Module loaded.
+2022-04-07 12:53:12,930 - elsapy.elsentity - INFO - Module loaded.
+2022-04-07 12:53:12,930 - elsapy.elsdoc - INFO - Module loaded.
+2022-04-07 12:53:13,413 - elsapy.utils - INFO - Module loaded.
+2022-04-07 12:53:13,413 - elsapy.elssearch - INFO - Module loaded.
+2022-04-07 12:53:13,415 - elsapy.elsprofile - INFO - Module loaded.
+2022-04-07 12:53:13,838 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856829262300%29
+2022-04-07 12:53:14,410 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 12:54:27,972 - elsapy.elsclient - INFO - Module loaded.
+2022-04-07 12:54:28,107 - elsapy.elsentity - INFO - Module loaded.
+2022-04-07 12:54:28,108 - elsapy.elsdoc - INFO - Module loaded.
+2022-04-07 12:54:28,674 - elsapy.utils - INFO - Module loaded.
+2022-04-07 12:54:28,675 - elsapy.elssearch - INFO - Module loaded.
+2022-04-07 12:54:28,676 - elsapy.elsprofile - INFO - Module loaded.
+2022-04-07 12:54:28,983 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856829262300%29
+2022-04-07 12:54:30,062 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 12:54:49,839 - elsapy.elsclient - INFO - Module loaded.
+2022-04-07 12:54:49,946 - elsapy.elsentity - INFO - Module loaded.
+2022-04-07 12:54:49,947 - elsapy.elsdoc - INFO - Module loaded.
+2022-04-07 12:54:50,445 - elsapy.utils - INFO - Module loaded.
+2022-04-07 12:54:50,446 - elsapy.elssearch - INFO - Module loaded.
+2022-04-07 12:54:50,447 - elsapy.elsprofile - INFO - Module loaded.
+2022-04-07 12:54:50,852 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856829262300%29
+2022-04-07 12:54:51,611 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 12:55:51,079 - elsapy.elsclient - INFO - Module loaded.
+2022-04-07 12:55:51,198 - elsapy.elsentity - INFO - Module loaded.
+2022-04-07 12:55:51,199 - elsapy.elsdoc - INFO - Module loaded.
+2022-04-07 12:55:51,692 - elsapy.utils - INFO - Module loaded.
+2022-04-07 12:55:51,692 - elsapy.elssearch - INFO - Module loaded.
+2022-04-07 12:55:51,693 - elsapy.elsprofile - INFO - Module loaded.
+2022-04-07 12:55:52,090 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856829262300%29
+2022-04-07 12:55:53,043 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 12:56:17,965 - elsapy.elsclient - INFO - Module loaded.
+2022-04-07 12:56:18,086 - elsapy.elsentity - INFO - Module loaded.
+2022-04-07 12:56:18,087 - elsapy.elsdoc - INFO - Module loaded.
+2022-04-07 12:56:18,600 - elsapy.utils - INFO - Module loaded.
+2022-04-07 12:56:18,601 - elsapy.elssearch - INFO - Module loaded.
+2022-04-07 12:56:18,602 - elsapy.elsprofile - INFO - Module loaded.
+2022-04-07 12:56:18,978 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856829262300%29
+2022-04-07 12:56:19,981 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 12:56:57,605 - elsapy.elsclient - INFO - Module loaded.
+2022-04-07 12:56:57,736 - elsapy.elsentity - INFO - Module loaded.
+2022-04-07 12:56:57,737 - elsapy.elsdoc - INFO - Module loaded.
+2022-04-07 12:56:58,264 - elsapy.utils - INFO - Module loaded.
+2022-04-07 12:56:58,264 - elsapy.elssearch - INFO - Module loaded.
+2022-04-07 12:56:58,266 - elsapy.elsprofile - INFO - Module loaded.
+2022-04-07 12:56:58,611 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856829262300%29
+2022-04-07 12:56:59,170 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 12:58:28,059 - elsapy.elsclient - INFO - Module loaded.
+2022-04-07 12:58:28,176 - elsapy.elsentity - INFO - Module loaded.
+2022-04-07 12:58:28,176 - elsapy.elsdoc - INFO - Module loaded.
+2022-04-07 12:58:28,697 - elsapy.utils - INFO - Module loaded.
+2022-04-07 12:58:28,698 - elsapy.elssearch - INFO - Module loaded.
+2022-04-07 12:58:28,699 - elsapy.elsprofile - INFO - Module loaded.
+2022-04-07 12:58:29,063 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856829262300%29
+2022-04-07 12:58:29,643 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:06:15,620 - elsapy.elsclient - INFO - Module loaded.
+2022-04-07 13:06:15,745 - elsapy.elsentity - INFO - Module loaded.
+2022-04-07 13:06:15,745 - elsapy.elsdoc - INFO - Module loaded.
+2022-04-07 13:06:16,283 - elsapy.utils - INFO - Module loaded.
+2022-04-07 13:06:16,284 - elsapy.elssearch - INFO - Module loaded.
+2022-04-07 13:06:16,286 - elsapy.elsprofile - INFO - Module loaded.
+2022-04-07 13:06:16,633 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856829262300%29
+2022-04-07 13:06:17,308 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:08:01,051 - elsapy.elsclient - INFO - Module loaded.
+2022-04-07 13:08:01,156 - elsapy.elsentity - INFO - Module loaded.
+2022-04-07 13:08:01,157 - elsapy.elsdoc - INFO - Module loaded.
+2022-04-07 13:08:01,634 - elsapy.utils - INFO - Module loaded.
+2022-04-07 13:08:01,634 - elsapy.elssearch - INFO - Module loaded.
+2022-04-07 13:08:01,636 - elsapy.elsprofile - INFO - Module loaded.
+2022-04-07 13:08:02,056 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856829262300%29
+2022-04-07 13:08:03,557 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:08:59,102 - elsapy.elsclient - INFO - Module loaded.
+2022-04-07 13:08:59,217 - elsapy.elsentity - INFO - Module loaded.
+2022-04-07 13:08:59,217 - elsapy.elsdoc - INFO - Module loaded.
+2022-04-07 13:08:59,713 - elsapy.utils - INFO - Module loaded.
+2022-04-07 13:08:59,713 - elsapy.elssearch - INFO - Module loaded.
+2022-04-07 13:08:59,714 - elsapy.elsprofile - INFO - Module loaded.
+2022-04-07 13:09:00,103 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856829262300%29
+2022-04-07 13:09:00,720 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:09:12,856 - elsapy.elsclient - INFO - Module loaded.
+2022-04-07 13:09:12,961 - elsapy.elsentity - INFO - Module loaded.
+2022-04-07 13:09:12,961 - elsapy.elsdoc - INFO - Module loaded.
+2022-04-07 13:09:13,451 - elsapy.utils - INFO - Module loaded.
+2022-04-07 13:09:13,451 - elsapy.elssearch - INFO - Module loaded.
+2022-04-07 13:09:13,453 - elsapy.elsprofile - INFO - Module loaded.
+2022-04-07 13:09:13,870 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856829262300%29
+2022-04-07 13:09:15,264 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:09:37,844 - elsapy.elsclient - INFO - Module loaded.
+2022-04-07 13:09:37,970 - elsapy.elsentity - INFO - Module loaded.
+2022-04-07 13:09:37,971 - elsapy.elsdoc - INFO - Module loaded.
+2022-04-07 13:09:38,490 - elsapy.utils - INFO - Module loaded.
+2022-04-07 13:09:38,490 - elsapy.elssearch - INFO - Module loaded.
+2022-04-07 13:09:38,492 - elsapy.elsprofile - INFO - Module loaded.
+2022-04-07 13:09:38,852 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856829262300%29
+2022-04-07 13:09:39,444 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:09:57,784 - elsapy.elsclient - INFO - Module loaded.
+2022-04-07 13:09:57,889 - elsapy.elsentity - INFO - Module loaded.
+2022-04-07 13:09:57,890 - elsapy.elsdoc - INFO - Module loaded.
+2022-04-07 13:09:58,390 - elsapy.utils - INFO - Module loaded.
+2022-04-07 13:09:58,391 - elsapy.elssearch - INFO - Module loaded.
+2022-04-07 13:09:58,392 - elsapy.elsprofile - INFO - Module loaded.
+2022-04-07 13:09:58,798 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856829262300%29
+2022-04-07 13:09:59,382 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:11:02,132 - elsapy.elsclient - INFO - Module loaded.
+2022-04-07 13:11:02,245 - elsapy.elsentity - INFO - Module loaded.
+2022-04-07 13:11:02,246 - elsapy.elsdoc - INFO - Module loaded.
+2022-04-07 13:11:02,758 - elsapy.utils - INFO - Module loaded.
+2022-04-07 13:11:02,758 - elsapy.elssearch - INFO - Module loaded.
+2022-04-07 13:11:02,759 - elsapy.elsprofile - INFO - Module loaded.
+2022-04-07 13:11:03,136 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856829262300%29
+2022-04-07 13:11:03,749 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:11:35,433 - elsapy.elsclient - INFO - Module loaded.
+2022-04-07 13:11:35,548 - elsapy.elsentity - INFO - Module loaded.
+2022-04-07 13:11:35,549 - elsapy.elsdoc - INFO - Module loaded.
+2022-04-07 13:11:36,152 - elsapy.utils - INFO - Module loaded.
+2022-04-07 13:11:36,153 - elsapy.elssearch - INFO - Module loaded.
+2022-04-07 13:11:36,155 - elsapy.elsprofile - INFO - Module loaded.
+2022-04-07 13:11:36,442 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856829262300%29
+2022-04-07 13:11:37,988 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:11:38,402 - elsapy.elsclient - INFO - Module loaded.
+2022-04-07 13:11:38,581 - elsapy.elsentity - INFO - Module loaded.
+2022-04-07 13:11:38,581 - elsapy.elsdoc - INFO - Module loaded.
+2022-04-07 13:11:39,170 - elsapy.utils - INFO - Module loaded.
+2022-04-07 13:11:39,170 - elsapy.elssearch - INFO - Module loaded.
+2022-04-07 13:11:39,171 - elsapy.elsprofile - INFO - Module loaded.
+2022-04-07 13:11:39,417 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856829262300%29
+2022-04-07 13:11:40,026 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:11:40,444 - elsapy.elsclient - INFO - Module loaded.
+2022-04-07 13:11:40,599 - elsapy.elsentity - INFO - Module loaded.
+2022-04-07 13:11:40,600 - elsapy.elsdoc - INFO - Module loaded.
+2022-04-07 13:11:41,118 - elsapy.utils - INFO - Module loaded.
+2022-04-07 13:11:41,118 - elsapy.elssearch - INFO - Module loaded.
+2022-04-07 13:11:41,119 - elsapy.elsprofile - INFO - Module loaded.
+2022-04-07 13:11:41,451 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856829262300%29
+2022-04-07 13:11:42,163 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:11:49,459 - elsapy.elsclient - INFO - Module loaded.
+2022-04-07 13:11:49,588 - elsapy.elsentity - INFO - Module loaded.
+2022-04-07 13:11:49,589 - elsapy.elsdoc - INFO - Module loaded.
+2022-04-07 13:11:50,195 - elsapy.utils - INFO - Module loaded.
+2022-04-07 13:11:50,196 - elsapy.elssearch - INFO - Module loaded.
+2022-04-07 13:11:50,197 - elsapy.elsprofile - INFO - Module loaded.
+2022-04-07 13:11:50,463 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856829262300%29
+2022-04-07 13:11:51,066 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:12:05,570 - elsapy.elsclient - INFO - Module loaded.
+2022-04-07 13:12:05,746 - elsapy.elsentity - INFO - Module loaded.
+2022-04-07 13:12:05,747 - elsapy.elsdoc - INFO - Module loaded.
+2022-04-07 13:12:06,296 - elsapy.utils - INFO - Module loaded.
+2022-04-07 13:12:06,296 - elsapy.elssearch - INFO - Module loaded.
+2022-04-07 13:12:06,298 - elsapy.elsprofile - INFO - Module loaded.
+2022-04-07 13:12:06,573 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856829262300%29
+2022-04-07 13:12:08,389 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:13:41,491 - elsapy.elsclient - INFO - Module loaded.
+2022-04-07 13:13:41,619 - elsapy.elsentity - INFO - Module loaded.
+2022-04-07 13:13:41,620 - elsapy.elsdoc - INFO - Module loaded.
+2022-04-07 13:13:42,167 - elsapy.utils - INFO - Module loaded.
+2022-04-07 13:13:42,167 - elsapy.elssearch - INFO - Module loaded.
+2022-04-07 13:13:42,169 - elsapy.elsprofile - INFO - Module loaded.
+2022-04-07 13:13:42,503 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856829262300%29
+2022-04-07 13:13:43,125 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:14:19,928 - elsapy.elsclient - INFO - Module loaded.
+2022-04-07 13:14:20,111 - elsapy.elsentity - INFO - Module loaded.
+2022-04-07 13:14:20,112 - elsapy.elsdoc - INFO - Module loaded.
+2022-04-07 13:14:20,706 - elsapy.utils - INFO - Module loaded.
+2022-04-07 13:14:20,707 - elsapy.elssearch - INFO - Module loaded.
+2022-04-07 13:14:20,708 - elsapy.elsprofile - INFO - Module loaded.
+2022-04-07 13:14:20,942 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856829262300%29
+2022-04-07 13:14:22,394 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:19:51,314 - elsapy.elsclient - INFO - Module loaded.
+2022-04-07 13:19:51,422 - elsapy.elsentity - INFO - Module loaded.
+2022-04-07 13:19:51,422 - elsapy.elsdoc - INFO - Module loaded.
+2022-04-07 13:19:51,901 - elsapy.utils - INFO - Module loaded.
+2022-04-07 13:19:51,902 - elsapy.elssearch - INFO - Module loaded.
+2022-04-07 13:19:51,903 - elsapy.elsprofile - INFO - Module loaded.
+2022-04-07 13:19:52,324 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856829262300%29
+2022-04-07 13:19:54,113 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:22:08,122 - elsapy.elsclient - INFO - Module loaded.
+2022-04-07 13:22:08,225 - elsapy.elsentity - INFO - Module loaded.
+2022-04-07 13:22:08,226 - elsapy.elsdoc - INFO - Module loaded.
+2022-04-07 13:22:08,706 - elsapy.utils - INFO - Module loaded.
+2022-04-07 13:22:08,707 - elsapy.elssearch - INFO - Module loaded.
+2022-04-07 13:22:08,708 - elsapy.elsprofile - INFO - Module loaded.
+2022-04-07 13:22:09,129 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856829262300%29
+2022-04-07 13:22:09,789 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:24:18,073 - elsapy.elsclient - INFO - Module loaded.
+2022-04-07 13:24:18,263 - elsapy.elsentity - INFO - Module loaded.
+2022-04-07 13:24:18,264 - elsapy.elsdoc - INFO - Module loaded.
+2022-04-07 13:24:18,794 - elsapy.utils - INFO - Module loaded.
+2022-04-07 13:24:18,795 - elsapy.elssearch - INFO - Module loaded.
+2022-04-07 13:24:18,796 - elsapy.elsprofile - INFO - Module loaded.
+2022-04-07 13:24:19,081 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856829262300%29
+2022-04-07 13:24:20,487 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:25:31,270 - elsapy.elsclient - INFO - Module loaded.
+2022-04-07 13:25:31,403 - elsapy.elsentity - INFO - Module loaded.
+2022-04-07 13:25:31,404 - elsapy.elsdoc - INFO - Module loaded.
+2022-04-07 13:25:31,964 - elsapy.utils - INFO - Module loaded.
+2022-04-07 13:25:31,964 - elsapy.elssearch - INFO - Module loaded.
+2022-04-07 13:25:31,966 - elsapy.elsprofile - INFO - Module loaded.
+2022-04-07 13:25:32,271 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856829262300%29
+2022-04-07 13:25:33,176 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:26:42,253 - elsapy.elsclient - INFO - Module loaded.
+2022-04-07 13:26:42,372 - elsapy.elsentity - INFO - Module loaded.
+2022-04-07 13:26:42,372 - elsapy.elsdoc - INFO - Module loaded.
+2022-04-07 13:26:42,963 - elsapy.utils - INFO - Module loaded.
+2022-04-07 13:26:42,963 - elsapy.elssearch - INFO - Module loaded.
+2022-04-07 13:26:42,965 - elsapy.elsprofile - INFO - Module loaded.
+2022-04-07 13:26:43,268 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856829262300%29
+2022-04-07 13:26:44,809 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:27:01,818 - elsapy.elsclient - INFO - Module loaded.
+2022-04-07 13:27:01,948 - elsapy.elsentity - INFO - Module loaded.
+2022-04-07 13:27:01,949 - elsapy.elsdoc - INFO - Module loaded.
+2022-04-07 13:27:02,446 - elsapy.utils - INFO - Module loaded.
+2022-04-07 13:27:02,447 - elsapy.elssearch - INFO - Module loaded.
+2022-04-07 13:27:02,448 - elsapy.elsprofile - INFO - Module loaded.
+2022-04-07 13:27:02,834 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856829262300%29
+2022-04-07 13:27:03,454 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:27:50,510 - elsapy.elsclient - INFO - Module loaded.
+2022-04-07 13:27:50,616 - elsapy.elsentity - INFO - Module loaded.
+2022-04-07 13:27:50,616 - elsapy.elsdoc - INFO - Module loaded.
+2022-04-07 13:27:51,087 - elsapy.utils - INFO - Module loaded.
+2022-04-07 13:27:51,087 - elsapy.elssearch - INFO - Module loaded.
+2022-04-07 13:27:51,089 - elsapy.elsprofile - INFO - Module loaded.
+2022-04-07 13:27:51,525 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2835070456600%29
+2022-04-07 13:27:53,675 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=AU-ID%2835070456600%29
+2022-04-07 13:27:56,098 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=50&count=25&query=AU-ID%2835070456600%29
+2022-04-07 13:27:57,800 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=75&count=25&query=AU-ID%2835070456600%29
+2022-04-07 13:27:58,476 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:27:59,786 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2835070456600%29
+2022-04-07 13:28:01,581 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=AU-ID%2835070456600%29
+2022-04-07 13:28:03,758 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=50&count=25&query=AU-ID%2835070456600%29
+2022-04-07 13:28:05,607 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=75&count=25&query=AU-ID%2835070456600%29
+2022-04-07 13:28:06,217 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:28:07,502 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2853265520300%29
+2022-04-07 13:28:09,350 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:28:10,374 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2855237805800%29
+2022-04-07 13:28:10,940 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:28:11,982 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2855387026900%29
+2022-04-07 13:28:13,157 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:28:14,209 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856411885900%29
+2022-04-07 13:28:15,206 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:28:16,286 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856623095700%29
+2022-04-07 13:28:17,253 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:28:18,300 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856736811600%29
+2022-04-07 13:28:19,788 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:28:20,862 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856829262300%29
+2022-04-07 13:28:21,808 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:28:22,847 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857164794100%29
+2022-04-07 13:28:24,053 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:28:25,081 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857189241247%29
+2022-04-07 13:28:26,195 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:28:27,229 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857189489654%29
+2022-04-07 13:28:28,151 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:28:29,183 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857189491386%29
+2022-04-07 13:28:30,059 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:28:31,089 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857189496923%29
+2022-04-07 13:28:32,700 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:28:33,778 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857189500860%29
+2022-04-07 13:28:35,891 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:28:36,926 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857189501612%29
+2022-04-07 13:28:39,005 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:28:40,033 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857189502995%29
+2022-04-07 13:28:41,759 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:28:42,787 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857190802506%29
+2022-04-07 13:28:43,833 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:28:44,864 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857190937522%29
+2022-04-07 13:28:46,059 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:28:47,070 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857191376011%29
+2022-04-07 13:28:48,138 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:28:49,183 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857193351194%29
+2022-04-07 13:28:51,077 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:28:52,142 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857193551563%29
+2022-04-07 13:28:53,968 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:28:55,057 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857193552117%29
+2022-04-07 13:28:56,247 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:28:57,266 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857193553998%29
+2022-04-07 13:28:59,192 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:29:00,209 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857193554937%29
+2022-04-07 13:29:01,364 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:29:02,428 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857193555024%29
+2022-04-07 13:29:03,411 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:29:04,439 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857193555871%29
+2022-04-07 13:29:06,368 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:29:07,394 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857193556709%29
+2022-04-07 13:29:08,456 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:29:09,475 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857193557036%29
+2022-04-07 13:29:10,353 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:29:11,369 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857193694289%29
+2022-04-07 13:29:12,355 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:29:13,374 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857193703805%29
+2022-04-07 13:29:14,410 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:29:15,439 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857193703805%29
+2022-04-07 13:29:16,476 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:29:17,506 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857193845073%29
+2022-04-07 13:29:19,781 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:29:20,823 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857193845740%29
+2022-04-07 13:29:22,364 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:29:23,493 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857193845740%29
+2022-04-07 13:29:24,417 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:29:25,440 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857193845829%29
+2022-04-07 13:29:26,733 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:29:27,771 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857193851273%29
+2022-04-07 13:29:28,830 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:29:29,849 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857193852061%29
+2022-04-07 13:29:30,860 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:29:31,926 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857193853368%29
+2022-04-07 13:29:32,557 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:29:33,596 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857193854253%29
+2022-04-07 13:29:35,469 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:29:36,491 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857193860831%29
+2022-04-07 13:29:37,678 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:29:38,697 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857194046739%29
+2022-04-07 13:29:41,095 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:29:42,143 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857194095804%29
+2022-04-07 13:29:43,212 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:29:44,276 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857194095804%29
+2022-04-07 13:29:46,161 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:29:47,206 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857194098936%29
+2022-04-07 13:29:49,645 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=AU-ID%2857194098936%29
+2022-04-07 13:29:50,783 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:29:51,929 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857194098936%29
+2022-04-07 13:29:54,525 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=AU-ID%2857194098936%29
+2022-04-07 13:29:55,307 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:29:56,448 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857194507138%29
+2022-04-07 13:29:57,781 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:29:58,807 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857194782786%29
+2022-04-07 13:29:59,958 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:30:01,048 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857194782920%29
+2022-04-07 13:30:02,690 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:30:03,721 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857199685060%29
+2022-04-07 13:30:04,454 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:30:05,485 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857200292438%29
+2022-04-07 13:30:07,497 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:30:08,520 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857200415063%29
+2022-04-07 13:30:09,877 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:30:10,933 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857201673507%29
+2022-04-07 13:30:11,880 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:30:12,918 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857202149735%29
+2022-04-07 13:30:13,852 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:30:14,882 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857202576554%29
+2022-04-07 13:30:16,078 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:30:17,122 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857202586358%29
+2022-04-07 13:30:18,161 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:30:19,205 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857202902362%29
+2022-04-07 13:30:20,206 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:30:21,264 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857203954747%29
+2022-04-07 13:30:22,360 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:30:23,401 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857203954747%29
+2022-04-07 13:30:24,082 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:30:25,124 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857203965420%29
+2022-04-07 13:30:26,859 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:30:27,965 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204171027%29
+2022-04-07 13:30:29,151 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:30:30,201 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204171589%29
+2022-04-07 13:30:30,886 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:30:31,988 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204171778%29
+2022-04-07 13:30:33,337 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:30:34,375 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204171827%29
+2022-04-07 13:30:35,428 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:30:36,462 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204173381%29
+2022-04-07 13:30:37,527 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:30:38,648 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204173468%29
+2022-04-07 13:30:39,630 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:30:40,675 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204173643%29
+2022-04-07 13:30:41,725 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:30:42,769 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204173707%29
+2022-04-07 13:30:43,757 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:30:44,812 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204173939%29
+2022-04-07 13:30:45,976 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:30:47,185 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204174154%29
+2022-04-07 13:30:48,321 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:30:49,472 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204174766%29
+2022-04-07 13:30:50,403 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:30:51,454 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204175159%29
+2022-04-07 13:30:52,591 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:30:53,683 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204175486%29
+2022-04-07 13:30:54,591 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:30:55,609 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204175810%29
+2022-04-07 13:30:56,539 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:30:57,575 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204176027%29
+2022-04-07 13:30:58,626 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:30:59,678 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204176549%29
+2022-04-07 13:31:00,653 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:31:01,676 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204176608%29
+2022-04-07 13:31:02,628 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:31:03,652 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204176935%29
+2022-04-07 13:31:04,525 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:31:05,549 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204177331%29
+2022-04-07 13:31:07,604 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:31:08,650 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204177997%29
+2022-04-07 13:31:09,783 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:31:10,894 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204178882%29
+2022-04-07 13:31:12,145 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:31:13,359 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204178898%29
+2022-04-07 13:31:14,567 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:31:15,652 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204178999%29
+2022-04-07 13:31:17,430 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:31:18,497 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204179138%29
+2022-04-07 13:31:19,542 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:31:20,582 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204179314%29
+2022-04-07 13:31:21,733 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:31:22,765 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204179927%29
+2022-04-07 13:31:23,304 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:31:24,351 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204180169%29
+2022-04-07 13:31:26,186 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:31:27,230 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204180755%29
+2022-04-07 13:31:28,530 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:31:29,556 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204180761%29
+2022-04-07 13:31:31,343 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:31:32,380 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204181854%29
+2022-04-07 13:31:33,410 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:31:34,441 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204182637%29
+2022-04-07 13:31:35,507 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:31:36,550 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204182959%29
+2022-04-07 13:31:38,416 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:31:39,527 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204182959%29
+2022-04-07 13:31:40,384 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:31:41,475 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204182971%29
+2022-04-07 13:31:42,366 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:31:43,397 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204183128%29
+2022-04-07 13:31:44,025 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:31:45,066 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204183341%29
+2022-04-07 13:31:45,958 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:31:46,980 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204184190%29
+2022-04-07 13:31:48,151 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:31:49,200 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204184190%29
+2022-04-07 13:31:49,751 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:31:50,794 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204184406%29
+2022-04-07 13:31:51,731 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:31:52,778 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204185646%29
+2022-04-07 13:31:53,778 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:31:54,812 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204185816%29
+2022-04-07 13:31:55,957 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:31:56,996 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204186026%29
+2022-04-07 13:31:57,939 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:31:58,980 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204186308%29
+2022-04-07 13:31:59,942 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:32:00,970 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204186308%29
+2022-04-07 13:32:01,827 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:32:02,841 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204186404%29
+2022-04-07 13:32:03,517 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:32:04,553 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204187129%29
+2022-04-07 13:32:05,572 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:32:06,631 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204187429%29
+2022-04-07 13:32:07,921 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:32:08,974 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204187881%29
+2022-04-07 13:32:09,938 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:32:10,982 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204188055%29
+2022-04-07 13:32:11,848 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:32:12,871 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204188102%29
+2022-04-07 13:32:14,566 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:32:15,591 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204188342%29
+2022-04-07 13:32:16,490 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:32:17,507 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204188436%29
+2022-04-07 13:32:18,380 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:32:19,398 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204188766%29
+2022-04-07 13:32:20,499 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:32:21,567 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204188975%29
+2022-04-07 13:32:22,620 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:32:23,654 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204189139%29
+2022-04-07 13:32:24,670 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:32:25,719 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204495477%29
+2022-04-07 13:32:26,684 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:32:27,738 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204887482%29
+2022-04-07 13:32:28,636 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:32:29,683 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857207821904%29
+2022-04-07 13:32:30,599 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:32:31,637 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857208907432%29
+2022-04-07 13:32:32,539 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:32:33,575 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857210406719%29
+2022-04-07 13:32:34,478 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:32:35,512 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857211505545%29
+2022-04-07 13:32:36,467 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:32:37,497 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857212084243%29
+2022-04-07 13:32:38,329 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:32:39,348 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857212086746%29
+2022-04-07 13:32:40,270 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:32:41,502 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857212087545%29
+2022-04-07 13:32:42,612 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:32:43,689 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857212087545%29
+2022-04-07 13:32:44,333 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:32:45,424 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857212088535%29
+2022-04-07 13:32:46,251 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:32:47,267 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857212092499%29
+2022-04-07 13:32:48,235 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:47:00,547 - elsapy.elsclient - INFO - Module loaded.
+2022-04-07 13:47:00,694 - elsapy.elsentity - INFO - Module loaded.
+2022-04-07 13:47:00,694 - elsapy.elsdoc - INFO - Module loaded.
+2022-04-07 13:47:01,408 - elsapy.utils - INFO - Module loaded.
+2022-04-07 13:47:01,408 - elsapy.elssearch - INFO - Module loaded.
+2022-04-07 13:47:01,410 - elsapy.elsprofile - INFO - Module loaded.
+2022-04-07 13:47:01,548 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2835070456600%29
+2022-04-07 13:47:04,697 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=AU-ID%2835070456600%29
+2022-04-07 13:47:06,580 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=50&count=25&query=AU-ID%2835070456600%29
+2022-04-07 13:47:08,427 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=75&count=25&query=AU-ID%2835070456600%29
+2022-04-07 13:47:09,061 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:47:43,615 - elsapy.elsclient - INFO - Module loaded.
+2022-04-07 13:47:43,740 - elsapy.elsentity - INFO - Module loaded.
+2022-04-07 13:47:43,741 - elsapy.elsdoc - INFO - Module loaded.
+2022-04-07 13:47:44,451 - elsapy.utils - INFO - Module loaded.
+2022-04-07 13:47:44,452 - elsapy.elssearch - INFO - Module loaded.
+2022-04-07 13:47:44,454 - elsapy.elsprofile - INFO - Module loaded.
+2022-04-07 13:47:44,625 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2835070456600%29
+2022-04-07 13:47:46,575 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=AU-ID%2835070456600%29
+2022-04-07 13:47:48,533 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=50&count=25&query=AU-ID%2835070456600%29
+2022-04-07 13:47:51,428 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=75&count=25&query=AU-ID%2835070456600%29
+2022-04-07 13:47:52,533 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:48:19,610 - elsapy.elsclient - INFO - Module loaded.
+2022-04-07 13:48:19,739 - elsapy.elsentity - INFO - Module loaded.
+2022-04-07 13:48:19,739 - elsapy.elsdoc - INFO - Module loaded.
+2022-04-07 13:48:20,792 - elsapy.utils - INFO - Module loaded.
+2022-04-07 13:48:20,792 - elsapy.elssearch - INFO - Module loaded.
+2022-04-07 13:48:20,798 - elsapy.elsprofile - INFO - Module loaded.
+2022-04-07 13:48:20,982 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2835070456600%29
+2022-04-07 13:48:22,922 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=AU-ID%2835070456600%29
+2022-04-07 13:48:24,662 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=50&count=25&query=AU-ID%2835070456600%29
+2022-04-07 13:48:27,446 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=75&count=25&query=AU-ID%2835070456600%29
+2022-04-07 13:48:29,069 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:50:05,367 - elsapy.elsclient - INFO - Module loaded.
+2022-04-07 13:50:05,491 - elsapy.elsentity - INFO - Module loaded.
+2022-04-07 13:50:05,492 - elsapy.elsdoc - INFO - Module loaded.
+2022-04-07 13:50:06,184 - elsapy.utils - INFO - Module loaded.
+2022-04-07 13:50:06,185 - elsapy.elssearch - INFO - Module loaded.
+2022-04-07 13:50:06,186 - elsapy.elsprofile - INFO - Module loaded.
+2022-04-07 13:50:06,371 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2835070456600%29
+2022-04-07 13:50:08,130 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=AU-ID%2835070456600%29
+2022-04-07 13:50:09,910 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=50&count=25&query=AU-ID%2835070456600%29
+2022-04-07 13:50:11,693 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=75&count=25&query=AU-ID%2835070456600%29
+2022-04-07 13:50:12,315 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:51:18,996 - elsapy.elsclient - INFO - Module loaded.
+2022-04-07 13:51:19,110 - elsapy.elsentity - INFO - Module loaded.
+2022-04-07 13:51:19,110 - elsapy.elsdoc - INFO - Module loaded.
+2022-04-07 13:51:19,690 - elsapy.utils - INFO - Module loaded.
+2022-04-07 13:51:19,691 - elsapy.elssearch - INFO - Module loaded.
+2022-04-07 13:51:19,692 - elsapy.elsprofile - INFO - Module loaded.
+2022-04-07 13:51:20,012 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2835070456600%29
+2022-04-07 13:51:22,862 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=AU-ID%2835070456600%29
+2022-04-07 13:51:24,873 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=50&count=25&query=AU-ID%2835070456600%29
+2022-04-07 13:51:26,610 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=75&count=25&query=AU-ID%2835070456600%29
+2022-04-07 13:51:27,196 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:51:28,497 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2835070456600%29
+2022-04-07 13:51:30,176 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=AU-ID%2835070456600%29
+2022-04-07 13:51:32,043 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=50&count=25&query=AU-ID%2835070456600%29
+2022-04-07 13:52:04,137 - elsapy.elsclient - INFO - Module loaded.
+2022-04-07 13:52:04,367 - elsapy.elsentity - INFO - Module loaded.
+2022-04-07 13:52:04,369 - elsapy.elsdoc - INFO - Module loaded.
+2022-04-07 13:52:05,087 - elsapy.utils - INFO - Module loaded.
+2022-04-07 13:52:05,088 - elsapy.elssearch - INFO - Module loaded.
+2022-04-07 13:52:05,089 - elsapy.elsprofile - INFO - Module loaded.
+2022-04-07 13:52:05,196 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2835070456600%29
+2022-04-07 13:52:07,073 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=AU-ID%2835070456600%29
+2022-04-07 13:52:09,891 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=50&count=25&query=AU-ID%2835070456600%29
+2022-04-07 13:52:11,612 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=75&count=25&query=AU-ID%2835070456600%29
+2022-04-07 13:52:12,978 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:52:14,200 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2835070456600%29
+2022-04-07 13:53:54,122 - elsapy.elsclient - INFO - Module loaded.
+2022-04-07 13:53:54,232 - elsapy.elsentity - INFO - Module loaded.
+2022-04-07 13:53:54,233 - elsapy.elsdoc - INFO - Module loaded.
+2022-04-07 13:53:54,734 - elsapy.utils - INFO - Module loaded.
+2022-04-07 13:53:54,735 - elsapy.elssearch - INFO - Module loaded.
+2022-04-07 13:53:54,737 - elsapy.elsprofile - INFO - Module loaded.
+2022-04-07 13:53:55,129 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2835070456600%29
+2022-04-07 13:53:58,300 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=AU-ID%2835070456600%29
+2022-04-07 13:54:00,184 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=50&count=25&query=AU-ID%2835070456600%29
+2022-04-07 13:54:03,057 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=75&count=25&query=AU-ID%2835070456600%29
+2022-04-07 13:54:03,791 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:54:47,164 - elsapy.elsclient - INFO - Module loaded.
+2022-04-07 13:54:47,279 - elsapy.elsentity - INFO - Module loaded.
+2022-04-07 13:54:47,280 - elsapy.elsdoc - INFO - Module loaded.
+2022-04-07 13:54:47,825 - elsapy.utils - INFO - Module loaded.
+2022-04-07 13:54:47,825 - elsapy.elssearch - INFO - Module loaded.
+2022-04-07 13:54:47,827 - elsapy.elsprofile - INFO - Module loaded.
+2022-04-07 13:54:48,173 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2835070456600%29
+2022-04-07 13:54:50,899 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=AU-ID%2835070456600%29
+2022-04-07 13:54:52,733 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=50&count=25&query=AU-ID%2835070456600%29
+2022-04-07 13:54:54,502 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=75&count=25&query=AU-ID%2835070456600%29
+2022-04-07 13:54:55,254 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:54:56,565 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2835070456600%29
+2022-04-07 13:54:58,362 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=AU-ID%2835070456600%29
+2022-04-07 13:55:00,077 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=50&count=25&query=AU-ID%2835070456600%29
+2022-04-07 13:55:01,791 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=75&count=25&query=AU-ID%2835070456600%29
+2022-04-07 13:55:02,579 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:55:03,908 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2853265520300%29
+2022-04-07 13:55:05,019 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:55:06,038 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2855237805800%29
+2022-04-07 13:55:07,410 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:55:08,443 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2855387026900%29
+2022-04-07 13:55:10,152 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:55:11,177 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856411885900%29
+2022-04-07 13:55:13,060 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:55:14,206 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856623095700%29
+2022-04-07 13:55:15,358 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:55:16,390 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856736811600%29
+2022-04-07 13:55:17,517 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:55:18,623 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2856829262300%29
+2022-04-07 13:55:19,182 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:55:20,239 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857164794100%29
+2022-04-07 13:55:21,330 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:55:22,363 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857189241247%29
+2022-04-07 13:55:23,997 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:55:25,018 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857189489654%29
+2022-04-07 13:55:25,626 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:55:26,654 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857189491386%29
+2022-04-07 13:55:27,236 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:55:28,260 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857189496923%29
+2022-04-07 13:55:29,222 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:55:30,284 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857189500860%29
+2022-04-07 13:55:31,383 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:55:32,413 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857189501612%29
+2022-04-07 13:55:33,407 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:55:34,433 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857189502995%29
+2022-04-07 13:55:35,347 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:55:36,369 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857190802506%29
+2022-04-07 13:55:37,255 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:55:38,292 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857190937522%29
+2022-04-07 13:55:38,948 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:55:40,003 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857191376011%29
+2022-04-07 13:55:40,595 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:55:41,633 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857193351194%29
+2022-04-07 13:55:42,740 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:55:43,818 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857193551563%29
+2022-04-07 13:55:44,612 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:55:45,754 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857193552117%29
+2022-04-07 13:55:46,737 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:55:47,754 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857193553998%29
+2022-04-07 13:55:48,573 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:55:49,582 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857193554937%29
+2022-04-07 13:55:50,342 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:55:51,400 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857193555024%29
+2022-04-07 13:55:52,553 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:55:53,583 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857193555871%29
+2022-04-07 13:55:55,269 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:55:56,301 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857193556709%29
+2022-04-07 13:55:57,029 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:55:58,048 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857193557036%29
+2022-04-07 13:55:58,964 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:55:59,974 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857193694289%29
+2022-04-07 13:56:00,640 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:56:01,669 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857193703805%29
+2022-04-07 13:56:02,248 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:56:03,279 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857193703805%29
+2022-04-07 13:56:05,060 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:56:06,095 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857193845073%29
+2022-04-07 13:56:07,344 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:56:08,401 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857193845740%29
+2022-04-07 13:56:09,943 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:56:10,958 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857193845740%29
+2022-04-07 13:56:12,327 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:56:13,339 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857193845829%29
+2022-04-07 13:56:14,283 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:56:15,327 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857193851273%29
+2022-04-07 13:56:16,389 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:56:17,399 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857193852061%29
+2022-04-07 13:56:18,797 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:56:19,862 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857193853368%29
+2022-04-07 13:56:20,403 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:56:21,443 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857193854253%29
+2022-04-07 13:56:22,422 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:56:23,435 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857193860831%29
+2022-04-07 13:56:24,290 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:56:25,311 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857194046739%29
+2022-04-07 13:56:26,012 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:56:27,044 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857194095804%29
+2022-04-07 13:56:28,208 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:56:29,288 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857194095804%29
+2022-04-07 13:56:30,273 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:56:31,359 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857194098936%29
+2022-04-07 13:56:34,390 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=AU-ID%2857194098936%29
+2022-04-07 13:56:35,040 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:56:36,223 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857194098936%29
+2022-04-07 13:56:37,924 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=AU-ID%2857194098936%29
+2022-04-07 13:56:38,580 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:56:39,761 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857194507138%29
+2022-04-07 13:56:40,721 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:56:41,760 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857194782786%29
+2022-04-07 13:56:42,523 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:56:43,626 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857194782920%29
+2022-04-07 13:56:44,540 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:56:45,581 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857199685060%29
+2022-04-07 13:56:46,282 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:56:47,324 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857200292438%29
+2022-04-07 13:56:48,546 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:56:49,566 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857200415063%29
+2022-04-07 13:56:50,914 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:56:51,967 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857201673507%29
+2022-04-07 13:56:53,023 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:56:54,072 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857202149735%29
+2022-04-07 13:56:55,037 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:56:56,083 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857202576554%29
+2022-04-07 13:56:56,748 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:56:57,793 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857202586358%29
+2022-04-07 13:56:58,852 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:56:59,891 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857202902362%29
+2022-04-07 13:57:00,886 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:57:01,929 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857203954747%29
+2022-04-07 13:57:02,884 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:57:03,912 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857203954747%29
+2022-04-07 13:57:04,587 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:57:05,623 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857203965420%29
+2022-04-07 13:57:06,629 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:57:07,661 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204171027%29
+2022-04-07 13:57:08,892 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:57:09,959 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204171589%29
+2022-04-07 13:57:10,577 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:57:11,639 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204171778%29
+2022-04-07 13:57:12,526 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:57:13,596 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204171827%29
+2022-04-07 13:57:15,440 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:57:16,465 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204173381%29
+2022-04-07 13:57:18,434 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:57:19,492 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204173468%29
+2022-04-07 13:57:20,055 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:57:21,089 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204173643%29
+2022-04-07 13:57:22,137 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:57:23,159 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204173707%29
+2022-04-07 13:57:24,017 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:57:25,055 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204173939%29
+2022-04-07 13:57:26,007 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:57:27,039 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204174154%29
+2022-04-07 13:57:28,211 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:57:29,305 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204174766%29
+2022-04-07 13:57:30,758 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:57:31,806 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204175159%29
+2022-04-07 13:57:32,326 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:57:33,354 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204175486%29
+2022-04-07 13:57:34,193 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:57:35,205 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204175810%29
+2022-04-07 13:57:36,468 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:57:37,505 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204176027%29
+2022-04-07 13:57:38,169 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:57:39,231 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204176549%29
+2022-04-07 13:57:40,217 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:57:41,239 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204176608%29
+2022-04-07 13:57:41,771 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:57:42,793 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204176935%29
+2022-04-07 13:57:43,362 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:57:44,387 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204177331%29
+2022-04-07 13:57:45,284 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:57:46,327 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204177997%29
+2022-04-07 13:57:48,126 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:57:49,439 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204178882%29
+2022-04-07 13:57:49,996 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:57:51,023 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204178898%29
+2022-04-07 13:57:52,533 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:57:53,605 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204178999%29
+2022-04-07 13:57:54,696 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:57:55,765 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204179138%29
+2022-04-07 13:57:56,993 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:57:58,035 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204179314%29
+2022-04-07 13:57:59,548 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:58:00,563 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204179927%29
+2022-04-07 13:58:01,139 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:58:02,173 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204180169%29
+2022-04-07 13:58:03,372 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:58:04,408 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204180755%29
+2022-04-07 13:58:05,304 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:58:06,333 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204180761%29
+2022-04-07 13:58:07,581 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:58:08,607 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204181854%29
+2022-04-07 13:58:09,528 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:58:10,559 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204182637%29
+2022-04-07 13:58:11,143 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:58:12,180 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204182959%29
+2022-04-07 13:58:13,123 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:58:14,247 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204182959%29
+2022-04-07 13:58:15,070 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:58:16,190 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204182971%29
+2022-04-07 13:58:17,190 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:58:18,220 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204183128%29
+2022-04-07 13:58:18,905 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:58:19,953 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204183341%29
+2022-04-07 13:58:20,847 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:58:21,932 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204184190%29
+2022-04-07 13:58:22,689 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:58:23,723 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204184190%29
+2022-04-07 13:58:24,477 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:58:25,504 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204184406%29
+2022-04-07 13:58:27,231 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:58:28,269 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204185646%29
+2022-04-07 13:58:28,811 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:58:29,829 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204185816%29
+2022-04-07 13:58:31,555 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:58:32,579 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204186026%29
+2022-04-07 13:58:34,392 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:58:35,409 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204186308%29
+2022-04-07 13:58:35,959 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:58:36,972 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204186308%29
+2022-04-07 13:58:37,929 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:58:38,942 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204186404%29
+2022-04-07 13:58:39,738 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:58:40,771 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204187129%29
+2022-04-07 13:58:41,695 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:58:42,747 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204187429%29
+2022-04-07 13:58:43,963 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:58:45,017 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204187881%29
+2022-04-07 13:58:46,043 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:58:47,103 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204188055%29
+2022-04-07 13:58:47,977 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:58:49,012 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204188102%29
+2022-04-07 13:58:49,891 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:58:50,922 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204188342%29
+2022-04-07 13:58:51,585 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:58:52,618 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204188436%29
+2022-04-07 13:58:53,694 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:58:54,731 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204188766%29
+2022-04-07 13:58:55,815 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:58:56,972 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204188975%29
+2022-04-07 13:58:57,540 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:58:58,568 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204189139%29
+2022-04-07 13:59:00,104 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:59:01,160 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204495477%29
+2022-04-07 13:59:02,631 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:59:03,741 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857204887482%29
+2022-04-07 13:59:04,777 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:59:05,812 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857207821904%29
+2022-04-07 13:59:06,803 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:59:07,824 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857208907432%29
+2022-04-07 13:59:08,714 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:59:09,742 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857210406719%29
+2022-04-07 13:59:10,586 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:59:11,611 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857211505545%29
+2022-04-07 13:59:12,265 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:59:13,283 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857212084243%29
+2022-04-07 13:59:14,294 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:59:15,315 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857212086746%29
+2022-04-07 13:59:15,963 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:59:16,999 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857212087545%29
+2022-04-07 13:59:18,263 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:59:19,353 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857212087545%29
+2022-04-07 13:59:20,365 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:59:21,463 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857212088535%29
+2022-04-07 13:59:22,431 - elsapy.utils - INFO - Converting prism:coverDate
+2022-04-07 13:59:23,449 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2857212092499%29
+2022-04-07 13:59:24,504 - elsapy.utils - INFO - Converting prism:coverDate

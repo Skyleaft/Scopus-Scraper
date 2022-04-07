@@ -1,0 +1,19 @@
+2022-01-29 10:07:08,349 - elsapy.elsclient - INFO - Module loaded.
+2022-01-29 10:07:08,472 - elsapy.elsentity - INFO - Module loaded.
+2022-01-29 10:07:08,472 - elsapy.elsdoc - INFO - Module loaded.
+2022-01-29 10:07:10,436 - elsapy.utils - INFO - Module loaded.
+2022-01-29 10:07:10,437 - elsapy.elssearch - INFO - Module loaded.
+2022-01-29 10:07:10,438 - elsapy.elsprofile - INFO - Module loaded.
+2022-01-29 10:07:10,515 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2835070456600%29
+2022-01-29 10:07:13,039 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=AU-ID%2835070456600%29
+2022-01-29 10:07:15,996 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=50&count=25&query=AU-ID%2835070456600%29
+2022-01-29 10:07:18,919 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=75&count=25&query=AU-ID%2835070456600%29
+2022-01-29 10:07:20,698 - elsapy.utils - INFO - Converting prism:coverDate
+2022-01-29 10:07:21,702 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2835070456600%29
+2022-01-29 10:07:24,279 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=AU-ID%2835070456600%29
+2022-01-29 10:07:27,689 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=50&count=25&query=AU-ID%2835070456600%29
+2022-01-29 10:07:30,150 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=75&count=25&query=AU-ID%2835070456600%29
+2022-01-29 10:07:41,756 - elsapy.utils - INFO - Converting prism:coverDate
+2022-01-29 10:07:42,755 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2853265520300%29
+2022-01-29 10:07:54,396 - elsapy.utils - INFO - Converting prism:coverDate
+2022-01-29 10:07:55,397 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2855237805800%29

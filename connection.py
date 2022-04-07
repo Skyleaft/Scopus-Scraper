@@ -1,4 +1,6 @@
+from asyncio.windows_events import NULL
 import json
+from tokenize import String
 import mysql.connector
 from datetime import datetime
 from tqdm import tqdm
@@ -41,20 +43,23 @@ def insertPush(data, scopus_id):
             db.commit()
 
         if db.is_connected():
-            sql = "REPLACE INTO documents(eid, doi, tittle, type, coverDate, volume, citiedCount, scopus_id, issn, createAt, updateAt) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
+            sql = "REPLACE INTO documents(identifier,eid, doi, tittle, type, coverDate, volume, citiedCount, scopus_id, issn, createAt, updateAt, page) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)"
+            eid = i['eid']
+            uniqtuple = eid[7:],'-',scopus_id
+            uniq = ''.join(uniqtuple)
             try:
-                val = (i['eid'], i['prism:doi'], i['dc:title'], i['subtypeDescription'], i['prism:coverDate'], i['prism:volume'], i['citedby-count'],
-                       scopus_id, i['prism:issn'], datetime.now(), datetime.now())
+                val = (uniq,i['eid'], i['prism:doi'], i['dc:title'], i['subtypeDescription'], i['prism:coverDate'], i['prism:volume'], i['citedby-count'],
+                       scopus_id, i['prism:issn'], datetime.now(), datetime.now(),i['prism:pageRange'])
             except:
                 try:
-                    val = (i['eid'], i['openaccessFlag'], i['dc:title'], i['subtypeDescription'], i['prism:coverDate'], i['prism:volume'], i['citedby-count'],
-                           scopus_id, i['prism:issn'], datetime.now(), datetime.now())
+                    val = (uniq,i['eid'], NULL, i['dc:title'], i['subtypeDescription'], i['prism:coverDate'], i['prism:volume'], i['citedby-count'],
+                           scopus_id, i['prism:issn'], datetime.now(), datetime.now(), i['prism:pageRange'])
                 except:
                     try:
-                        val = (i['eid'], i['prism:doi'], i['dc:title'], i['subtypeDescription'], i['prism:coverDate'], i['prism:pageRange'], i['citedby-count'],
-                           scopus_id, i['prism:isbn'][0]['$'], datetime.now(), datetime.now())
+                        val = (uniq,i['eid'], i['prism:doi'], i['dc:title'], i['subtypeDescription'], i['prism:coverDate'], '', i['citedby-count'],
+                           scopus_id, i['prism:isbn'][0]['$'], datetime.now(), datetime.now(), i['prism:pageRange'])
                     except:
-                        val = (i['eid'], '', i['dc:title'], i['subtypeDescription'], i['prism:coverDate'], i['prism:pageRange'], i['citedby-count'],
-                           scopus_id, '', datetime.now(), datetime.now())
+                        val = (uniq,i['eid'], NULL, i['dc:title'], i['subtypeDescription'], i['prism:coverDate'], '', i['citedby-count'],
+                           scopus_id, '', datetime.now(), datetime.now(), i['prism:pageRange'])
             cursor.execute(sql, val)
             db.commit()
